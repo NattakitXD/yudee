@@ -175,7 +175,7 @@
                         <div class="d-flex justify-content-end flex-wrap">
 
                             <div class="position-relative  pt30 pb20 mr-2" ><a href="#"
-                                class="ud-btn btn-red2 " style="color:#fff">Delete Profile
+                                class="ud-btn btn-white " style="color:#fff">Delete Profile
                                 <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
 
