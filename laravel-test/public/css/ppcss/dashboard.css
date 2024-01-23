@@ -83844,11 +83844,11 @@ div.pswp__img--placeholder,.pswp__img--with-bg {
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 
-.tab-content {
+/* .tab-content {
     overflow: hidden;
 }
 
 .tab-pane {
     overflow-y: auto;
     max-height: auto; /* ปรับความสูงตามที่คุณต้องการ */
-}
+} */
