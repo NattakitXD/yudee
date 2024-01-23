@@ -83823,25 +83823,9 @@ div.pswp__img--placeholder,.pswp__img--with-bg {
     border: 1px solid #181a20
 }
 
-/* .ud-btn2:before,.btn-gray:before,.btn-dark:before,.btn-thm:before,.btn-thm2:before,.btn-thm3:before,.btn-thm-border:before,.btn-red2:before,.btn-light-gray:before,.btn-transparent:before,.btn-transparent2:before {
+.ud-btn2:before,.btn-gray:before,.btn-dark:before,.btn-thm:before,.btn-thm2:before,.btn-thm3:before,.btn-thm-border:before,.btn-red2:before,.btn-light-gray:before,.btn-transparent:before,.btn-transparent2:before {
     background-color:#dd1f1f;
-    content: "";
-    height: 100%;
-    left: -100%;
-    position: absolute;
-    top: 0;
-    width: 0;
-    z-index: -1;
-    -webkit-transform: skew(50deg);
-    -ms-transform: skew(50deg);
-    transform: skew(50deg);
-    -webkit-transition: width .6s;
-    -o-transition: width .6s;
-    transition: width .6s;
-    -webkit-transform-origin: top left;
-    -ms-transform-origin: top left;
-    transform-origin: top left
-} */
+}
 
 
 /* กรณีใช้ Select2 */
