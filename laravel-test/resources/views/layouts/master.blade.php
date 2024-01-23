@@ -43,7 +43,7 @@
 <body data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0" class="" style="">
     @include('layouts.menu')
             @yield('content')
-    {{-- @include('layouts.footer') --}}
+    @include('layouts.footer')
 
     {{-- ปิดไว้ก่อนไม่งั้นใช้ select 2 ไม่ได้ --}}
     {{-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
