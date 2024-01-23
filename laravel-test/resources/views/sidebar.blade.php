@@ -1,5 +1,6 @@
 @extends('layouts.master')
 @section('content')
+
     <div class="row pb40 d-block d-lg-none m-5">
         <div class="col-lg-12">
             <div class="dashboard_navigationbar d-block d-lg-none">
@@ -28,7 +29,7 @@
 
                                 <div class="sidebar_list_item">
                                     <a class="items-center    " href="#">
-                                        <i class="fa-solid fa-house mr15"></i></i>My Properties</a>
+                                    <i class="fa-solid fa-house mr15"></i></i>My Properties</a>
                                 </div>
 
                                 <div class="sidebar_list_item"><a class="items-center    " href="#"><i
@@ -78,7 +79,6 @@
         <div class="dashboard_content_wrapper">
             <div class="dashboard dashboard_wrapper pr30 pr0-md">
                 <div class="dashboard__sidebar d-none d-lg-block ">
-
                     <div class="dashboard_sidebar_list" role="tablist">
 
                         <div id="v-tabs-tab" role="tablist" >
