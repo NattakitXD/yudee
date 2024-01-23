@@ -80099,7 +80099,7 @@ li.mm-listitem:hover,li.mm-listitem:active,li.mm-listitem:focus {
 }
 
 .mbp_pagination .page-item.active .page-link {
-    background-color: #eb6753;
+    background-color: #0071bc;
     color: #fff;
     -webkit-box-shadow: none;
     box-shadow: none

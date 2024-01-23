@@ -233,7 +233,7 @@
                                 </div>
 
                                 <div class="col-md-12 ">
-                                    <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center bdrb1 ">
+                                    <div class="media border-top pt-7 pb-6 d-sm-flex ">
                                         <img src="{{ URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2i5SncdIRQskLGrrby3HxDzdvQ35H6S6wpQZ_X4mKkEUF8_r') }}"
                                             alt="Harry Iglesias"
                                             class=" rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
@@ -290,7 +290,7 @@
 
                                 <div class="col-md-12">
                                     <div class="position-relative bdrb1 pt30 pb20"><a href="#"
-                                            class="ud-btn btn-white2">Show all 134 reviews
+                                            class="ud-btn btn-white"style="color:#fff">Show all 134 reviews
                                             <i class="fa-solid fa-arrow-right"></i></a>
                                     </div>
                                 </div>
