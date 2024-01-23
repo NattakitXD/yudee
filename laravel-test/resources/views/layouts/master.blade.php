@@ -11,14 +11,14 @@
     <script src="https://kit.fontawesome.com/924b5e10e1.js" crossorigin="anonymous"></script>
     <link href='https://unpkg.com/css.gg@2.0.0/icons/css/chevron-down.css' rel='stylesheet'>
 
-    {{-- Earth --}}
-
+    {{-- X --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
      <script type="module" crossorigin="" src="css/ppcss/dashboard.js"></script>
     <script type="module" crossorigin="" src="css/ppcss/script.js"></script>
-    <link rel="stylesheet" href="css/ppcss/dashboard.css">
-    <link rel="stylesheet" href="css/ppcss/theme.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('/css/ppcss/dashboard.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/ppcss/theme.css') }}" type="text/css">
+
       <!-- Include Select2 from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">

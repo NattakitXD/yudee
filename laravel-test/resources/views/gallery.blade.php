@@ -9,8 +9,8 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-    <script src="css/gallerycss/theme.js"></script>
-    <link rel="stylesheet" href="css/gallerycss/theme.css" type="text/css" />
+    <script type="module" crossorigin="" src="css/gallerycss/theme.js"></script>
+    <link rel="stylesheet" href="{{ asset('/css/gallerycss/theme.css') }}" type="text/css" />
 
     <script src="https://kit.fontawesome.com/8365c6ef59.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
