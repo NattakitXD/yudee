@@ -21,24 +21,8 @@ Route::get('/gallery', function () {
     return view('gallery');
 });
 
-Route::get('/memnu', function () {
-    return view('memnu');
-});
-
-Route::get('/master', function () {
-    return view('master');
-});
-
-Route::get('/footer', function () {
-    return view('footer');
-});
-
 Route::get('/sidebar', function () {
     return view('sidebar');
-});
-
-Route::get('/sidebar2', function () {
-    return view('sidebar2');
 });
 
 Route::get('/test', function () {
