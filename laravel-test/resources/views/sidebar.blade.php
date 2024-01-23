@@ -1,6 +1,5 @@
 @extends('layouts.master')
 @section('content')
-
     <div class="row pb40 d-block d-lg-none m-5">
         <div class="col-lg-12">
             <div class="dashboard_navigationbar d-block d-lg-none">
@@ -79,6 +78,7 @@
         <div class="dashboard_content_wrapper">
             <div class="dashboard dashboard_wrapper pr30 pr0-md">
                 <div class="dashboard__sidebar d-none d-lg-block ">
+
                     <div class="dashboard_sidebar_list" role="tablist">
 
                         <div id="v-tabs-tab" role="tablist" >
@@ -143,24 +143,26 @@
 
                     </div>
                 </div>
-                <div class="dashboard__main pl0-md">
-                    <div class="tab-content" id="v-tabs-tabContent">
-                        <div class="tab-pane fade" id="v-add-property" role="tabpanel"
-                            aria-labelledby="v-add-property-tab" tabindex="0">
-                            @include('dashboard.addproperty')
-                        </div>
 
-                        <div class="tab-pane fade" id="v-profile" role="tabpanel" aria-labelledby="v-profile-tab"
-                            tabindex="0">
-                            @include('dashboard.profile')
-                        </div>
-
-                        <div class="tab-pane fade" id="v-review" role="tabpanel" aria-labelledby="v-review-tab"
-                            tabindex="0">
-                            @include('dashboard.review')
-                        </div>
+                <div class="tab-content" id="v-tabs-tabContent">
+                    <div class="tab-pane fade" id="v-add-property" role="tabpanel"
+                        aria-labelledby="v-add-property-tab" tabindex="0">
+                        @include('dashboard.addproperty')
                     </div>
+
+                    <div class="tab-pane fade" id="v-profile" role="tabpanel" aria-labelledby="v-profile-tab"
+                        tabindex="0">
+                        @include('dashboard.profile')
+                    </div>
+
+                    <div class="tab-pane fade" id="v-review" role="tabpanel" aria-labelledby="v-review-tab"
+                        tabindex="0">
+                        @include('dashboard.review')
+                    </div>
+
+
                 </div>
+
             </div>
         </div>
     </aside>
