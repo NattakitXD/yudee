@@ -14,11 +14,10 @@
     {{-- X --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
-     <script type="module" crossorigin="" src="css/ppcss/dashboard.js"></script>
-    <script type="module" crossorigin="" src="css/ppcss/script.js"></script>
-    <link rel="stylesheet" href="{{ asset('/css/ppcss/dashboard.css') }}">
-    <link rel="stylesheet" href="{{ asset('/css/ppcss/theme.css') }}" type="text/css">
-
+     <script type="module" crossorigin="" src="/assets/js/ppjs/dashboard.js"></script>
+    <script type="module" crossorigin="" src="/assets/js/ppjs/script.js"></script>
+    <link rel="stylesheet" href="{{ asset('/assets/css/ppcss/dashboard.css') }}">
+    <link rel="stylesheet" href="{{ asset('/assets/css/ppcss/theme.css') }}" type="text/css">
       <!-- Include Select2 from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
@@ -32,7 +31,7 @@
      {{-- --CSS SWIPER -- --}}
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
      {{-- --CSS-- --}}
-     <link href="{{ asset('css/mcss/hometest.css') }}" rel="stylesheet" type="text/css" />
+     <link href="{{ asset('/assets/css/mcss/hometest.css') }}" rel="stylesheet" type="text/css" />
      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
 
