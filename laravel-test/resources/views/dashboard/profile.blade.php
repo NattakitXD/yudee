@@ -18,8 +18,8 @@
                                                 <h3 class="card-title mb-0 text-heading fs-22 lh-15">Photo</h3>
                                                 <p class="card-text ">Upload your profile photo.</p>
                                             </div>
-
-                                            <div class="col-sm-8 col-xl-12 col-xxl-5 Photo text-center">
+                                            {{-- ลบ col-sm-8 col-xl-12 col-xxl-5 ออกจาก class --}}
+                                            <div class=" Photo text-center">
                                                 <img src="https://homez-reactjs.ibthemespro.com/images/listings/profile-1.jpg" alt="My Profile" class="mx-auto d-block img-fluid">
                                                 <div class="custom-file mt-4 h-auto">
                                                     <input type="file" class="custom-file-input" hidden="" id="customFile" name="file">
