@@ -31,7 +31,8 @@
 
                             <li class="list-inline-item mr-2">
                                 <button
-                                    class="btn btn-white p-0 d-flex align-items-center justify-content-center w-40px h-40 text-heading bg-hover-primary hover-white rounded-circle border-0 shadow-none"
+                                    {{-- เอา btn-white หลัง btn ออก --}}
+                                    class="btn btn-white2 p-0 d-flex align-items-center justify-content-center w-40px h-40 text-heading bg-hover-primary hover-white rounded-circle border-0 shadow-none"
                                     type="button" data-placement="top" data-toggle="popover" data-container="body"
                                     data-content='
                                         <ul class="list-inline mb-0 fs-22">
@@ -626,10 +627,9 @@
                         <div class="card border-0 mb-4">
                             <div class="card-body p-0">
                                 <h3 class="fs-16 lh-2 text-heading mb-0 d-inline-block pr-4 border-bottom border-primary">
-                                    5
-                                    Reviews</h3>
-
-                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center">
+                                    5 Reviews</h3>
+                                    {{-- ลบ d-block text-sm-left text-center --}}
+                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-07.jpg') }}"
                                         alt="Danny Fox" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -676,7 +676,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-08.jpg') }}"
                                         alt="Viola Austin" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -723,7 +723,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-09.jpg') }}"
                                         alt="Nettie Singleton" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -770,7 +770,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-07.jpg') }}"
                                         alt="Vernon Fisher" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -817,7 +817,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
                                     <img src="{{ URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2i5SncdIRQskLGrrby3HxDzdvQ35H6S6wpQZ_X4mKkEUF8_r') }}"
                                         alt="Harry Iglesias" class=" rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -1885,16 +1885,6 @@
             </div>
         </section>
     </main>
-
-
-    <div id="topButton" class="position-fixed pos-fixed-bottom-right p-6 z-index-10">
-        <a href="#"
-            class="gtf-back-to-top bg-white text-primary hover-white bg-hover-primary shadow p-0 w-52px h-52 rounded-circle fs-20 d-flex align-items-center justify-content-center in"
-            title="Back To Top">
-            <i class="fa-solid fa-arrow-up"></i>
-        </a>
-    </div>
-
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"

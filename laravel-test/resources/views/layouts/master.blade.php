@@ -31,7 +31,7 @@
      <script type="module" crossorigin="" src="/assets/js/ppjs/dashboard.js"></script>
     <script type="module" crossorigin="" src="/assets/js/ppjs/script.js"></script>
     <link rel="stylesheet" href="{{ asset('/assets/css/ppcss/dashboard.css') }}">
-    <link rel="stylesheet" href="{{ asset('/assets/css/ppcss/themepp.css') }}" type="text/css">
+    {{-- <link rel="stylesheet" href="{{ asset('/assets/css/ppcss/themepp.css') }}" type="text/css"> --}}
       <!-- Include Select2 from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
