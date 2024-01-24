@@ -75971,48 +75971,6 @@ section {
     width: 100%;
     z-index: 99999
 }
-
-.scrollToHome {
-    background-color: transparent;
-    border: 1px solid #eb6753;
-    border-radius: 50%;
-    bottom: 45px;
-    color: #eb6753;
-    display: block;
-    height: 50px;
-    line-height: 50px;
-    position: fixed;
-    right: 45px;
-    text-align: center;
-    text-decoration: none;
-    width: 50px;
-    z-index: 9;
-    -webkit-box-shadow: 0px 1px 4px 0px rgba(36,65,231,.3);
-    -o-box-shadow: 0px 1px 4px 0px rgba(36,65,231,.3);
-    box-shadow: 0 1px 4px #2441e74d;
-    -webkit-transition: all .4s ease;
-    -o-transition: all .4s ease;
-    transition: all .4s ease
-}
-
-.scrollToHome:hover {
-    color: #fff
-}
-
-.scrollToHome:hover {
-    background-color: #eb6753;
-    color: #fff
-}
-
-.scrollToHome.show {
-    bottom: 45px;
-    right: 45px;
-    opacity: 1;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1)
-}
-
 .animate-up-1,.animate-up-2,.animate-up-3,.animate-up-4,.animate-up-5 {
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;

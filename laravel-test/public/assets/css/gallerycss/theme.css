@@ -18216,13 +18216,13 @@
     margin-top: 20px
   }
 
-  .widget-request-tour .nav-item:not(:last-child) {
+  /* .widget-request-tour .nav-item:not(:last-child) {
     margin-right: -2px
   }
 
   .widget-request-tour .card.active {
     border: 2px solid rgba(14,198,213,.57)!important
-  }
+  } */
 
   .bootstrap-timepicker-widget {
     min-width: 320px
@@ -23637,7 +23637,7 @@
         right: -9%
     }
   }
-
+/* ||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
 
 .icon-gray {
     color: gray;
@@ -23649,6 +23649,7 @@
   .hidden {
     display: none;
   }
+  /* ||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
 
   #sidebar.sticky {
     position: fixed;
@@ -23673,24 +23674,24 @@
   display: none !important;
 }
 
-.bg-yudee {
+.bg-yd {
     background-color: #0071bc
   }
 
-.text-yudee {
+.text-yd {
     color: #0071bc
 }
 
 
-.slick-slider .slick-slide .card {
-    width: 100%; /* ปรับความกว้างของ Card ตามต้องการ */
+/* .slick-slider .slick-slide .card {
+    width: 100%; ปรับความกว้างของ Card ตามต้องการ
 }
 
 .slick-slider .slick-slide .card img {
-    width: 400px; /* ทำให้รูปภาพภายใน Card ขยายตามความกว้างของ Card */
-    height: 100%; /* ทำให้รูปภาพเป็นสี่เหลี่ยมจตุรัส */
+    width: 400px; ทำให้รูปภาพภายใน Card ขยายตามความกว้างของ Card
+    height: 100%; ทำให้รูปภาพเป็นสี่เหลี่ยมจตุรัส
 }
 
 .slick-slider .slick-slide .box{
-    margin: 20px; /* กำหนดระยะห่างรอบๆ ของ slick-slide */
-}
+    margin: 20px; กำหนดระยะห่างรอบๆ ของ slick-slide
+} */
