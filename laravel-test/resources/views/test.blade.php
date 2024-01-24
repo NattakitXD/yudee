@@ -1274,41 +1274,44 @@
                                             <h2 class="card-title fs-16 lh-2 mb-0"><a href="single-property-1.html"
                                                     class="text-dark hover-primary" tabindex="0">Home in Metric Way</a>
                                             </h2>
-                                            <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
-                                                Los Angeles</p>
-                                            <ul class="list-inline d-flex mb-0 flex-wrap mr-n5">
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="3 Bedroom">
-                                                    <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-bedroom"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bathrooms">
-                                                    <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-shower"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="Size">
-                                                    <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-square"></use>
-                                                    </svg>
-                                                    <i
-                                                        class="fa-solid fa-up-right-and-down-left-from-center text-primary"></i>
-                                                    2300 Sq.Ft
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="1 Garage">
-                                                    <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-Garage"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                </li>
-                                            </ul>
+                                            <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St, Los Angeles</p>
+                                            <div class="row">
+                                                <div class="col-6 mb-4">
+                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                        data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                        <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                            <use xlink:href="#icon-bedroom"></use>
+                                                        </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                    </li>
+
+
+                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                        data-toggle="tooltip" title="" data-original-title="Size">
+                                                        <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                            <use xlink:href="#icon-square"></use>
+                                                        </svg>
+                                                        <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                         2000 Sq.Ft
+                                                    </li>
+                                                </div>
+                                                <div class="col-6 mb-4">
+                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                        data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                        <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                            <use xlink:href="#icon-shower"></use>
+                                                        </svg>
+                                                        <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                    </li>
+                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                        data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                        <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                            <use xlink:href="#icon-Garage"></use>
+                                                        </svg>
+                                                        <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                    </li>
+                                                </div>
+                                            </div>
+
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
@@ -1368,39 +1371,42 @@
                                                     House</a></h2>
                                             <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
                                                 Los Angeles</p>
-                                            <ul class="list-inline d-flex mb-0 flex-wrap mr-n5">
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="3 Bedroom">
-                                                    <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-bedroom"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-bed text-primary mr-2"></i> 3 Br
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bathrooms">
-                                                    <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-shower"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="Size">
-                                                    <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-square"></use>
-                                                    </svg>
-                                                    <i
-                                                        class="fa-solid fa-up-right-and-down-left-from-center text-primary"></i>
-                                                    2300 Sq.Ft
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="1 Garage">
-                                                    <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-Garage"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                </li>
-                                            </ul>
+                                                <div class="row">
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                            <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-bedroom"></use>
+                                                            </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                        </li>
+
+
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="Size">
+                                                            <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-square"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                             2200 Sq.Ft
+                                                        </li>
+                                                    </div>
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                            <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-shower"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                        </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                            <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-Garage"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                        </li>
+                                                    </div>
+                                                </div>
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
@@ -1460,41 +1466,42 @@
                                                     House</a></h2>
                                             <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
                                                 Los Angeles</p>
-                                            <ul class="list-inline d-flex mb-0 flex-wrap mr-n5">
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bedroom">
-                                                    <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-bedroom"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bathrooms">
-                                                    <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-shower"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="Size">
-                                                    <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-square"></use>
-                                                    </svg>
-                                                    <i
-                                                        class="fa-solid fa-up-right-and-down-left-from-center text-primary"></i>
-                                                    2300 Sq.Ft
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="1 Garage">
-                                                    <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-Garage"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                </li>
-                                            </ul>
+                                                <div class="row">
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                            <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-bedroom"></use>
+                                                            </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                        </li>
+
+
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="Size">
+                                                            <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-square"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                             2000 Sq.Ft
+                                                        </li>
+                                                    </div>
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                            <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-shower"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                        </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                            <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-Garage"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                        </li>
+                                                    </div>
+                                                </div>
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
@@ -1553,41 +1560,42 @@
                                                     House</a></h2>
                                             <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
                                                 Los Angeles</p>
-                                            <ul class="list-inline d-flex mb-0 flex-wrap mr-n5">
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bedroom">
-                                                    <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-bedroom"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bathrooms">
-                                                    <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-shower"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="Size">
-                                                    <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-square"></use>
-                                                    </svg>
-                                                    <i
-                                                        class="fa-solid fa-up-right-and-down-left-from-center text-primary"></i>
-                                                    2300 Sq.Ft
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="1 Garage">
-                                                    <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-Garage"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                </li>
-                                            </ul>
+                                                <div class="row">
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                            <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-bedroom"></use>
+                                                            </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                        </li>
+
+
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="Size">
+                                                            <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-square"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                             2000 Sq.Ft
+                                                        </li>
+                                                    </div>
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                            <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-shower"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                        </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                            <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-Garage"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                        </li>
+                                                    </div>
+                                                </div>
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
@@ -1646,41 +1654,42 @@
                                                     House</a></h2>
                                             <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
                                                 Los Angeles</p>
-                                            <ul class="list-inline d-flex mb-0 flex-wrap mr-n5">
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bedroom">
-                                                    <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-bedroom"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bathrooms">
-                                                    <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-shower"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="Size">
-                                                    <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-square"></use>
-                                                    </svg>
-                                                    <i
-                                                        class="fa-solid fa-up-right-and-down-left-from-center text-primary"></i>
-                                                    2300 Sq.Ft
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="1 Garage">
-                                                    <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-Garage"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                </li>
-                                            </ul>
+                                                <div class="row">
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                            <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-bedroom"></use>
+                                                            </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                        </li>
+
+
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="Size">
+                                                            <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-square"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                             2000 Sq.Ft
+                                                        </li>
+                                                    </div>
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                            <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-shower"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                        </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                            <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-Garage"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                        </li>
+                                                    </div>
+                                                </div>
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
@@ -1739,41 +1748,42 @@
                                                     House</a></h2>
                                             <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
                                                 Los Angeles</p>
-                                            <ul class="list-inline d-flex mb-0 flex-wrap mr-n5">
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bedroom">
-                                                    <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-bedroom"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="3 Bathrooms">
-                                                    <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-shower"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title="" data-original-title="Size">
-                                                    <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-square"></use>
-                                                    </svg>
-                                                    <i
-                                                        class="fa-solid fa-up-right-and-down-left-from-center text-primary"></i>
-                                                    2300 Sq.Ft
-                                                </li>
-                                                <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center mr-5"
-                                                    data-toggle="tooltip" title=""
-                                                    data-original-title="1 Garage">
-                                                    <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                        <use xlink:href="#icon-Garage"></use>
-                                                    </svg>
-                                                    <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                </li>
-                                            </ul>
+                                                <div class="row">
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                            <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-bedroom"></use>
+                                                            </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                        </li>
+
+
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="Size">
+                                                            <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-square"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                             2000 Sq.Ft
+                                                        </li>
+                                                    </div>
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                            <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-shower"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                        </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                            <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-Garage"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                        </li>
+                                                    </div>
+                                                </div>
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
