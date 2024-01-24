@@ -34,8 +34,8 @@
 
 
                                 <div class="col-md-12">
-                                    {{-- เอา d-block text-sm-left text-center ออกหลัง d-sm-flex เพราะcssตจีกัน--}}
-                                    <div class="media border-top pt-7 pb-6 d-sm-flex ">
+
+                                    <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                         <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-07.jpg') }}"
                                             alt="Danny Fox" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                             style="width: 84px; height: 84px; object-fit: cover;">
@@ -84,7 +84,7 @@
                                 </div>
 
                                 <div class="col-md-12">
-                                    <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                    <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                         <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-08.jpg') }}"
                                             alt="Viola Austin" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                             style="width: 84px; height: 84px; object-fit: cover;">
@@ -133,7 +133,7 @@
                                 </div>
 
                                 <div class="col-md-12">
-                                    <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                    <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                         <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-09.jpg') }}"
                                             alt="Nettie Singleton"
                                             class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
@@ -183,7 +183,7 @@
                                 </div>
 
                                 <div class="col-md-12">
-                                    <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                    <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                         <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-07.jpg') }}"
                                             alt="Vernon Fisher"
                                             class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
@@ -233,7 +233,7 @@
                                 </div>
 
                                 <div class="col-md-12 ">
-                                    <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                    <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                         <img src="{{ URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2i5SncdIRQskLGrrby3HxDzdvQ35H6S6wpQZ_X4mKkEUF8_r') }}"
                                             alt="Harry Iglesias"
                                             class=" rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"

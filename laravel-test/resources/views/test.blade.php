@@ -628,8 +628,8 @@
                             <div class="card-body p-0">
                                 <h3 class="fs-16 lh-2 text-heading mb-0 d-inline-block pr-4 border-bottom border-primary">
                                     5 Reviews</h3>
-                                    {{-- ลบ d-block text-sm-left text-center --}}
-                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
+
+                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm ">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-07.jpg') }}"
                                         alt="Danny Fox" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -676,7 +676,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm ">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-08.jpg') }}"
                                         alt="Viola Austin" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -723,7 +723,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-09.jpg') }}"
                                         alt="Nettie Singleton" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -770,7 +770,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                     <img src="{{ URL('https://templates.g5plus.net/homeid/images/review-07.jpg') }}"
                                         alt="Vernon Fisher" class="rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -817,7 +817,7 @@
                                     </div>
                                 </div>
 
-                                <div class="media border-top pt-7 pb-6 d-sm-flex ">
+                                <div class="media border-top pt-7 pb-6 d-sm-flex d-block text-sm-left text-center-sm">
                                     <img src="{{ URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2i5SncdIRQskLGrrby3HxDzdvQ35H6S6wpQZ_X4mKkEUF8_r') }}"
                                         alt="Harry Iglesias" class=" rounded-circle mr-sm-8 mb-4 mb-sm-0 fs-14 img-fluid"
                                         style="width: 84px; height: 84px; object-fit: cover;">
@@ -912,10 +912,11 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="form-group mb-6">
+                                    <div class="form-group ">
                                         <textarea class="form-control form-control-lg border-0" placeholder="Your Review" name="message" rows="5"></textarea>
                                     </div>
-                                    <button type="submit" class="btn btn-lg btn-primary px-10 mb-2">Submit</button>
+                                    <button type="submit" class="ud-btn btn-white px-10 mb-2" style="color:#fff">Submit</button>
+
                                 </form>
                             </div>
                         </div>
@@ -1048,7 +1049,7 @@
                                             <div class="form-group mb-4">
                                                 <textarea class="form-control border-0" rows="4">Hello, I'm interested in Villa Called Archangel</textarea>
                                             </div>
-                                            <button type="submit" class="btn btn-white2 ud-btn btn-white btn-lg btn-block rounded"style="color:#fff">Request Info</button>
+                                            <button type="submit" class="ud-btn btn-white btn-lg btn-block rounded"style="color:#fff">Request Info</button>
                                             <div class="form-group form-check mt-2 mb-0">
                                                 <input type="checkbox" class="form-check-input" id="exampleCheck2">
                                                 <label class="form-check-label fs-13" for="exampleCheck2">Egestas
@@ -1192,7 +1193,7 @@
                                                     placeholder="Your phone">
                                             </div>
                                             <button type="submit"
-                                                class="btn btn-primary btn-lg btn-block rounded">Schedule A Tour
+                                            class="ud-btn btn-white btn-lg btn-block rounded"style="color:#fff">Schedule A Tour
                                             </button>
                                             <div class="form-group form-check mt-2 mb-0">
                                                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -1300,7 +1301,7 @@
                                             <ul class="list-inline mb-0">
                                                 <li class="list-inline-item">
                                                     <a href="#"
-                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-secondary bg-accent border-accent"
+                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-yd bg-accent border-accent"
                                                         data-toggle="tooltip" title="" tabindex="0"
                                                         data-original-title="Wishlist"><i class="fas fa-heart"></i></a>
                                                 </li>
@@ -1396,9 +1397,9 @@
                                             <ul class="list-inline mb-0">
                                                 <li class="list-inline-item">
                                                     <a href="#"
-                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-body hover-secondary bg-hover-accent border-hover-accent"
+                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center  bg-accent border-accent"
                                                         data-toggle="tooltip" title="" tabindex="0"
-                                                        data-original-title="Wishlist"><i class="far fa-heart"></i></a>
+                                                        data-original-title="Wishlist"><i class="fa-regular fa-heart"></i></a>
                                                 </li>
                                                 <li class="list-inline-item">
                                                     <a href="#"
@@ -1490,9 +1491,9 @@
                                             <ul class="list-inline mb-0">
                                                 <li class="list-inline-item">
                                                     <a href="#"
-                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-body hover-secondary bg-hover-accent border-hover-accent"
+                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center  bg-accent border-accent"
                                                         data-toggle="tooltip" title="" tabindex="0"
-                                                        data-original-title="Wishlist"><i class="far fa-heart"></i></a>
+                                                        data-original-title="Wishlist"><i class="fa-regular fa-heart"></i></a>
                                                 </li>
                                                 <li class="list-inline-item">
                                                     <a href="#"
@@ -1584,9 +1585,9 @@
                                             <ul class="list-inline mb-0">
                                                 <li class="list-inline-item">
                                                     <a href="#"
-                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-body hover-secondary bg-hover-accent border-hover-accent"
+                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center  bg-accent border-accent"
                                                         data-toggle="tooltip" title="" tabindex="0"
-                                                        data-original-title="Wishlist"><i class="far fa-heart"></i></a>
+                                                        data-original-title="Wishlist"><i class="fa-regular fa-heart"></i></a>
                                                 </li>
                                                 <li class="list-inline-item">
                                                     <a href="#"
@@ -1678,9 +1679,9 @@
                                             <ul class="list-inline mb-0">
                                                 <li class="list-inline-item">
                                                     <a href="#"
-                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-body hover-secondary bg-hover-accent border-hover-accent"
+                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center  bg-accent border-accent"
                                                         data-toggle="tooltip" title="" tabindex="0"
-                                                        data-original-title="Wishlist"><i class="far fa-heart"></i></a>
+                                                        data-original-title="Wishlist"><i class="fa-regular fa-heart"></i></a>
                                                 </li>
                                                 <li class="list-inline-item">
                                                     <a href="#"
@@ -1772,9 +1773,9 @@
                                             <ul class="list-inline mb-0">
                                                 <li class="list-inline-item">
                                                     <a href="#"
-                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center text-body hover-secondary bg-hover-accent border-hover-accent"
+                                                        class="w-40px h-40 border rounded-circle d-inline-flex align-items-center justify-content-center  bg-accent border-accent"
                                                         data-toggle="tooltip" title="" tabindex="0"
-                                                        data-original-title="Wishlist"><i class="far fa-heart"></i></a>
+                                                        data-original-title="Wishlist"><i class="fa-regular fa-heart"></i></a>
                                                 </li>
                                                 <li class="list-inline-item">
                                                     <a href="#"
