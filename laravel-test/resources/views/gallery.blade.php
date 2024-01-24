@@ -6,18 +6,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <script type="module" crossorigin="" src="/assets/js/galleryjs/theme.js"></script>
-    <link rel="stylesheet" href="{{ asset('/assets/css/gallerycss/theme.css') }}" type="text/css" />
-
-    <script src="https://kit.fontawesome.com/8365c6ef59.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous">
     </script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+    <link rel="stylesheet" href="{{ asset('/assets/css/gallerycss/theme.css') }}" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+    <script src="https://kit.fontawesome.com/8365c6ef59.js" crossorigin="anonymous"></script>
+
+
+
 
     <title>Bootstrap Example</title>
 
@@ -1981,11 +1985,12 @@
 
 </body>
 {{-- tabpanel --}}
-<script src="/assets/js/galleryjs/jquery.min.js"></script>
-<script src="/assets/js/galleryjs/bootstrap-js/bootstrap.bundle.js"></script>
-<script src="js/theme.js"></script>
+<script src="{{ asset('/assets/js/galleryjs/jquery.min.js') }}"></script>
+<script src="{{ asset('/assets/js/galleryjs/bootstrap-js/bootstrap.bundle.js') }}"></script>
+<script src="{{ asset('/js/theme.js') }}"></script>
+
 {{-- Image popup --}}
-<script src="/assets/js/galleryjs/magnific-popup-js/jquery.magnific-popup.min.js"></script>
+<script src="{{ asset('/assets/js/galleryjs/magnific-popup-js/jquery.magnific-popup.min.js') }}"></script>
 
 
 </html>

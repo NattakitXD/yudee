@@ -400,15 +400,15 @@
                             </li>
                             <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-check mr-2 text-primary"></i>Cooling
                             </li>
-                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-check mr-2 text-primary"></i>Dining
+                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-xmark mr-2 text-primary"></i>Dining
                                 room
                             </li>
-                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-check mr-2 text-primary"></i>Dishwasher
+                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-xmark mr-2 text-primary"></i>Dishwasher
                             </li>
-                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-check mr-2 text-primary"></i>Dining
+                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-xmark mr-2 text-primary"></i>Dining
                                 room
                             </li>
-                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-check mr-2 text-primary"></i>Dishwasher
+                            <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-xmark mr-2 text-primary"></i>Dishwasher
                             </li>
                         </ul>
 
@@ -949,7 +949,7 @@
                                                 <input class="form-check-input" type="radio" name="agent"
                                                     value="option1">
                                                 <div class="form-check-label ml-2">
-                                                    <div class="d-flex align-items-center">
+                                                    <div class="d-flex align-items-center mt-3">
                                                         <a href="agent-details-1.html" class="d-block w-60px h-60 mr-3">
                                                             <img src="https://templates.g5plus.net/homeid/images/agent-2.jpg"
                                                                 class="rounded-circle" alt="agent-2">
@@ -1032,6 +1032,7 @@
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="form-group mb-2">
                                                 <input type="text" class="form-control form-control-lg border-0"
                                                     placeholder="First Name, Last Name">
@@ -1047,10 +1048,7 @@
                                             <div class="form-group mb-4">
                                                 <textarea class="form-control border-0" rows="4">Hello, I'm interested in Villa Called Archangel</textarea>
                                             </div>
-                                            <button type="submit"
-                                                class="btn btn-primary btn-lg btn-block rounded">Request
-                                                Info
-                                            </button>
+                                            <button type="submit" class="btn btn-white2 ud-btn btn-white btn-lg btn-block rounded"style="color:#fff">Request Info</button>
                                             <div class="form-group form-check mt-2 mb-0">
                                                 <input type="checkbox" class="form-check-input" id="exampleCheck2">
                                                 <label class="form-check-label fs-13" for="exampleCheck2">Egestas
@@ -1812,12 +1810,7 @@
                     </div>
                 </div>
                 <div class="ml-auto">
-                    {{-- <button type="button" class="btn btn-primary fs-18 p-2 lh-1 mr-1 mb-1 shadow-none"
-                        data-toggle="modal" data-target="#modal-messenger">
 
-                        <i class="fa-solid fa-comment"></i></button>
-                    <a href="tel:091-545-3939" class="btn btn-primary fs-18 p-2 lh-1 mb-1 shadow-none"
-                        target="_blank"><i class="fa-solid fa-phone"></i></a> --}}
                     <ul class="list-inline mb-0 fs-22 pl-2">
 
                         <li class="list-inline-item mr-2 ml-2 mb-0">
@@ -1836,8 +1829,8 @@
                     </ul>
                 </div>
             </div>
-
-            <div class="modal fade" id="modal-messenger" tabindex="-1" aria-labelledby="exampleModalLabel"
+            {{-- modal contect --}}
+            {{-- <div class="modal fade" id="modal-messenger" tabindex="-1" aria-labelledby="exampleModalLabel"
                 aria-hidden="true" style="display: none;">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -1870,12 +1863,11 @@
                                     faucibus
                                     scelerisque eleifend donec.</label>
                             </div>
-                            <button type="submit" class="btn btn-primary btn-lg btn-block rounded">Request
-                                Info</button>
+                            <button type="submit" class="btn btn-white2 rounded"style="color:#fff">Request Info</button>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </section>
     </main>
 
