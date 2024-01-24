@@ -11,7 +11,7 @@
                         <li class="breadcrumb-item fs-12 letter-spacing-087">
                             <a href="listing-grid-with-left-filter.html">Listing</a>
                         </li>
-                        <li class="breadcrumb-item fs-12 letter-spacing-087 active">Villa on Hollywood Boulevard</li>
+                        <li class="breadcrumb-item fs-12 font-weight-600 letter-spacing-087 active">Villa on Hollywood Boulevard</li>
                     </ol>
                 </nav>
             </div>
@@ -167,7 +167,7 @@
                             </div>
 
                             <div class="mt-2 text-lg-right">
-                                <p class="fs-22 text-heading font-bold mb-0">$1.250.000</p>
+                                <p class="fs-22 text-heading font-bold mb-0 font-weight-600">$1.250.000</p>
                                 <p class="mb-0">$0000/SqFt</p>
                             </div>
                         </div>
