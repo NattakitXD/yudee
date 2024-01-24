@@ -925,16 +925,16 @@
 
 
                 <aside class="col-lg-4 pl-xl-4 primary-sidebar sidebar-sticky ">
-                    <div class="make-me-sticky " style="">
+                    <div class="make-me-sticky ">
                         <div class="card border-0 widget-request-tour">
                             <ul class="list-inline nav nav-tabs d-flex " role="tablist">
-                                <li class="nav-item">
+                                {{-- <li class="nav-item">
                                     <a class="nav-link active px-3 " data-toggle="tab" href="#schedule" role="tab"
                                         aria-selected="true">Schedule A Tour
                                     </a>
-                                </li>
+                                </li> --}}
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link px-3" data-toggle="tab" href="#request-info" role="tab"
+                                    <a class="nav-link active px-3" data-toggle="tab" href="#request-info" role="tab"
                                         aria-selected="false">Request Info
                                     </a>
                                 </li>
@@ -943,7 +943,7 @@
                                 <form>
                                     <div class="tab-content pt-1 pb-0 px-0 shadow-none">
                                         {{-- Schedule A Tour ID --}}
-                                        <div class="tab-pane fade show active" id="schedule" role="tabpanel">
+                                        {{-- <div class="tab-pane fade show active" id="schedule" role="tabpanel">
                                             <div class="slick-slider  ">
 
                                                 <div class="box px-1 py-4  " data-slick-index="0" aria-hidden="false"
@@ -1103,9 +1103,9 @@
                                                     scelerisque
                                                     eleifend donec.</label>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                         {{-- Request Info ID --}}
-                                        <div class="tab-pane fade pt-5" id="request-info" role="tabpanel">
+                                        <div class="tab-pane fade fade show active" id="request-info" role="tabpanel">
                                             <div class="form-check d-flex align-items-center border-bottom pb-3 mb-3">
                                                 <input class="form-check-input" type="radio" name="agent"
                                                     value="option1">
