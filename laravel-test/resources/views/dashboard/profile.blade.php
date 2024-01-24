@@ -23,7 +23,7 @@
                                                 <img src="https://homez-reactjs.ibthemespro.com/images/listings/profile-1.jpg" alt="My Profile" class="mx-auto d-block img-fluid">
                                                 <div class="custom-file mt-4 h-auto">
                                                     <input type="file" class="custom-file-input" hidden="" id="customFile" name="file">
-                                                    <button type="submit" class="fourth1 button1 ">Upload profile image</button>
+                                                    <button type="submit" class="ud-btn btn-white" style="color:#fff" >Upload profile image</button>
                                                 </div>
                                                 <p class="mb-0 mt-2">
                                                     *minimum 500px x 500px

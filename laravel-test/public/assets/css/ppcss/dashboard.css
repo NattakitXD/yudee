@@ -78206,7 +78206,7 @@ textarea:focus {
     color: #fff
 }
 
-.ud-btn:before,.btn-gray:before,.btn-dark:before,.btn-thm:before,.btn-thm2:before,.btn-thm3:before,.btn-thm-border:before,.btn-white:before,.btn-red2:before,.btn-light-gray:before,.btn-transparent:before,.btn-transparent2:before {
+/* .ud-btn:before,.btn-gray:before,.btn-dark:before,.btn-thm:before,.btn-thm2:before,.btn-thm3:before,.btn-thm-border:before,.btn-white:before,.btn-red2:before,.btn-light-gray:before,.btn-transparent:before,.btn-transparent2:before {
     background-color:#2596be;
     content: "";
     height: 100%;
@@ -78224,7 +78224,7 @@ textarea:focus {
     -webkit-transform-origin: top left;
     -ms-transform-origin: top left;
     transform-origin: top left
-}
+} */
 
 .ud-btn:hover,.btn-gray:hover,.btn-dark:hover,.btn-thm:hover,.btn-thm2:hover,.btn-thm3:hover,.btn-thm-border:hover,.btn-white:hover,.btn-red2:hover,.btn-light-gray:hover,.btn-transparent:hover,.btn-transparent2:hover {
     color: #fff !important

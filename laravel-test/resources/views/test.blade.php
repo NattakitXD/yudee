@@ -32,7 +32,7 @@
                             <li class="list-inline-item mr-2">
                                 <button
                                     {{-- เอา btn-white หลัง btn ออก --}}
-                                    class="btn btn-white2 p-0 d-flex align-items-center justify-content-center w-40px h-40 text-heading bg-hover-primary hover-white rounded-circle border-0 shadow-none"
+                                    class="btn-1 btn-white-1 p-0 d-flex align-items-center justify-content-center w-40px h-40 text-heading bg-hover-primary hover-white rounded-circle border-0 shadow-none"
                                     type="button" data-placement="top" data-toggle="popover" data-container="body"
                                     data-content='
                                         <ul class="list-inline mb-0 fs-22">
@@ -50,7 +50,7 @@
                                             </li>
                                         </ul>'
                                     data-html="true" data-original-title="" title="">
-                                    <i class="fa-solid fa-share-nodes"></i>
+                                    <i class="fa-solid fa-share-nodes" ></i>
                                 </button>
                             </li>
 
