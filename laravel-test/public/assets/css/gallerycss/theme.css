@@ -2816,15 +2816,7 @@
 .text-center-sm {
     text-align: center
   }
-/* .slick-slider .slick-slide .card {
-    width: 100%; ปรับความกว้างของ Card ตามต้องการ
-}
 
-.slick-slider .slick-slide .card img {
-    width: 400px; ทำให้รูปภาพภายใน Card ขยายตามความกว้างของ Card
-    height: 100%; ทำให้รูปภาพเป็นสี่เหลี่ยมจตุรัส
-}
-
-.slick-slider .slick-slide .box{
-    margin: 20px; กำหนดระยะห่างรอบๆ ของ slick-slide
-} */
+  .media-fa{
+    font-size: 30px;
+  }

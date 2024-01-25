@@ -188,134 +188,134 @@
                     <section class="pt-6 border-bottom">
                         <h2 class="fs-30 text-heading font-bold ">Facts and Features</h2>
                         <div class="row pt-3">
-                            <div class="col-lg-3 col-6 mb-6 ">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-house-chimney-window fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            Type
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            Single Family
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4 ">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-house-chimney-window text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                Type
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                Single Family
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-trowel-bricks fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            YEAR
-                                            BUILT
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            2020
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-trowel-bricks text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                YEAR BUILT
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                2020
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-temperature-arrow-up fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            HEATING
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            Radiant
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-temperature-arrow-up text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                HEATING
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                Radiant
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-house-flag fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            SQFT
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            979.0
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2  ">
+                                            <i class="fa-solid fa-bath text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                BATHROOMS
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                2
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-bed fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            BEDROOMS
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            3
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-bed text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                BEDROOMS
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                3
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2 ">
-                                        <i class="fa-solid fa-bath fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            BATHROOMS
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            2
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-house-flag text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                SQFT
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                979.0
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-warehouse fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            GARAGE
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            1
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-warehouse text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                GARAGE
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                1
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div class="col-lg-3 col-6 mb-6">
-                                <div class="media">
-                                    <div class="p-2 shadow-xxs-1 rounded-lg mr-2">
-                                        <i class="fa-solid fa-scroll fs-32 text-primary"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h5 class=" my-1 fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
-                                            STATUS
-                                        </h5>
-                                        <p class="mb-0 fs-13 font-weight-bold text-heading">
-                                            Active
-                                        </p>
+                                <div class="col-lg-3 col-6 mt-4">
+                                    <div class="media ">
+                                        <div class="media-fa p-2 shadow-xxs-1 rounded-lg mr-2 ">
+                                            <i class="fa-solid fa-scroll text-primary"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                                STATUS
+                                            </h5>
+                                            <p class=" fs-13 font-weight-bold text-heading">
+                                                Active
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
+
                         </div>
                     </section>
 

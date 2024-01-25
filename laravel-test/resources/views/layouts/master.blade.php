@@ -59,7 +59,7 @@
     <script type="module" crossorigin="" src="{{ asset('/assets/js/ppjs/script.js') }}"></script>
     <script type="module" crossorigin="" src="{{ asset('/assets/js/galleryjs/theme.js') }}"></script>
     {{-- tabpanel --}}
-    <script src="{{ asset('/assets/js/galleryjs/jquery.min.js') }}"></script>
+    {{-- <script src="{{ asset('/assets/js/galleryjs/jquery.min.js') }}"></script> --}}
     <script src="{{ asset('/assets/js/galleryjs/bootstrap-js/bootstrap.bundle.js') }}"></script>
     <script src="{{ asset('/js/theme.js') }}"></script>
     {{-- Image popup --}}
