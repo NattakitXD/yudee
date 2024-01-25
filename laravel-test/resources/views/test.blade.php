@@ -2,9 +2,9 @@
 @section('content')
     <main>
         <section>
-            <div class="container mb-6">
+            <div class="container">
                 <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb pt-lg-0 pb-3">
+                    <ol class="breadcrumb pt-lg-0">
                         <li class="breadcrumb-item fs-12 letter-spacing-087">
                             <a href=".">Home</a>
                         </li>
@@ -18,7 +18,7 @@
             <div class="container-fluid">
                 <div class="position-relative zoomIn ">
 
-                    <div class="position-absolute pos-fixed-top-right z-index-3">
+                    <div class="position-absolute pos-fixed-top-right z-index-2">
                         <ul class="list-inline pt-4 pr-5">
 
                             <li class="list-inline-item mr-2">
@@ -149,10 +149,10 @@
         <div class="container">
             <div class="row">
                 <article class="col-lg-8 pr-xl-7">
-                    <section class="pb-7 border-bottom">
-                        <ul class="list-inline d-sm-flex align-items-sm-center mb-2">
-                            <li class="list-inline-item badge badge-orange mr-2">Featured</li>
-                            <li class="list-inline-item badge badge-primary mr-3">For Sale</li>
+                    <section class=" border-bottom">
+                        <ul class="list-inline d-sm-flex align-items-sm-center">
+                            <li class="list-inline-item badge badge-orange">Featured</li>
+                            <li class="list-inline-item badge badge-primary">For Sale</li>
                             <li class="list-inline-item mr-2 mt-2 mt-sm-0"><i class="fa-regular fa-clock mr-1"></i>2months
                                 ago
                             </li>
@@ -186,8 +186,7 @@
                     </section>
 
                     <section class="pt-6 border-bottom">
-
-                        <h2 class="fs-30 text-heading font-bold mb-0">Facts and Features</h2>
+                        <h2 class="fs-30 text-heading font-bold ">Facts and Features</h2>
                         <div class="row pt-3">
                             <div class="col-lg-3 col-6 mb-6 ">
                                 <div class="media">
@@ -321,7 +320,7 @@
                     </section>
 
                     <section class="pt-6 border-bottom ">
-                        <h2 class="fs-30 text-heading font-bold mb-0">Additional Details</h2>
+                        <h2 class="fs-30 text-heading font-bold ">Additional Details</h2>
                         <div class="row pt-2">
                             <dl class="col-sm-6 mb-0 d-flex">
                                 <dt class="w-110px fs-14  text-heading pr-2">Property ID</dt>
@@ -382,7 +381,7 @@
                     </section>
 
                     <section class="pt-6 border-bottom">
-                        <h2 class="fs-30 text-heading font-bold mb-0">Offices Amenities</h2>
+                        <h2 class="fs-30 text-heading font-bold ">Offices Amenities</h2>
                         <ul class="list-unstyled mb-0 row pt-2 ">
                             <li class="col-sm-3 col-6 mb-2"><i class="fa-solid fa-check mr-2 text-primary"></i>Balcony
                             </li>
@@ -435,7 +434,7 @@
                     </section>
 
                     <section>
-                        <h4 class="fs-30 text-heading lh-15 mb-5 pt-3">Rating &amp; Reviews</h4>
+                        <h4 class="fs-30 text-heading lh-15 pt-3">Rating &amp; Reviews</h4>
                         <div class="card border-0 mb-4">
                             <div class="card-body p-0">
                                 <div class="row">
@@ -445,7 +444,7 @@
                                             <h5 class="fs-16 lh-2 text-heading mb-6">
                                                 Avarage User Rating
                                             </h5>
-                                            <p class="fs-40 text-heading font-weight-bold mb-6 lh-1">4.6 <span
+                                            <p class="fs-40 text-heading font-weight-bold lh-1">4.6 <span
                                                     class="fs-18 text-gray-light font-weight-normal">/5</span></p>
                                             <ul class="list-inline">
                                                 <li
@@ -473,7 +472,7 @@
                                     </div>
 
                                     <div class="col-sm-6 pt-3">
-                                        <h5 class="fs-16 lh-2 text-heading mb-5">
+                                        <h5 class="fs-16 lh-2 text-heading ">
                                             Rating Breakdown
                                         </h5>
                                         <div class="d-flex align-items-center mx-n1">
@@ -1218,7 +1217,7 @@
 
         <section class="pt-6 pb-8">
             <div class="container ">
-                <h4 class="fs-22 text-heading mb-6">Similar Homes You May Like</h4>
+                <h4 class="fs-22 text-heading ">Similar Homes You May Like</h4>
                 <div class="slick-list draggable" style="height: 500px;">
                     <div class="slick-track" style="opacity: 1; width: 100%; transform: translate3d(0px, 0px, 0px);">
                         <div class="col-md-12 ">
