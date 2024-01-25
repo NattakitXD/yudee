@@ -1276,7 +1276,7 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
-                                                            <div class="list-inline">
+                                                            <div class="list-inline fa-sq">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
                                                              2200 Sq.Ft</div>
                                                         </li>
@@ -1372,7 +1372,7 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
-                                                            <div class="list-inline">
+                                                            <div class="list-inline fa-sq">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
                                                              2200 Sq.Ft</div>
                                                         </li>
@@ -1468,7 +1468,7 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
-                                                            <div class="list-inline">
+                                                            <div class="list-inline fa-sq">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
                                                              2000 Sq.Ft</div>
                                                         </li>
@@ -1563,7 +1563,7 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
-                                                            <div class="list-inline">
+                                                            <div class="list-inline fa-sq">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
                                                              2000 Sq.Ft</div>
                                                         </li>
@@ -1658,7 +1658,7 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
-                                                            <div class="list-inline">
+                                                            <div class="list-inline fa-sq">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
                                                              2000 Sq.Ft</div>
                                                         </li>
@@ -1753,7 +1753,7 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
-                                                            <div class="list-inline">
+                                                            <div class="list-inline fa-sq">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
                                                              2000 Sq.Ft</div>
                                                         </li>

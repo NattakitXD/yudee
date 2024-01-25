@@ -40,7 +40,9 @@
 <body data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0" class="" style="">
     @include('layouts.menu')
             @yield('content')
-    @include('layouts.footer')
+            @unless(Auth::check())
+            @include('layouts.footer')
+            @endunless
 
 
 

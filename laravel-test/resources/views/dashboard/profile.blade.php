@@ -4,7 +4,7 @@
                 <div class="col-lg-10">
                     <div class="mb-6">
                         <h2 class="mb-0 text-heading fs-22 lh-15">My Profile</h2>
-                        <p class="mb-1">Lorem ipsum dolor sit amet, consec tetur cing elit. Suspe ndisse suscipit</p>
+                        <p class="">Lorem ipsum dolor sit amet, consec tetur cing elit. Suspe ndisse suscipit</p>
                     </div>
 
                     <div class="container">
@@ -14,9 +14,9 @@
                                 <div class="card mb-6">
                                     <div class="card-body px-6 pt-6 pb-5">
                                         <div class="row">
-                                            <div class="col-sm-4 col-xl-12 col-xxl-7 mb-6">
+                                            <div class="col-sm-4 col-xl-12 col-xxl-7 ">
                                                 <h3 class="card-title mb-0 text-heading fs-22 lh-15">Photo</h3>
-                                                <p class="card-text ">Upload your profile photo.</p>
+                                                <p class="card-text mb-4 ">Upload your profile photo.</p>
                                             </div>
                                             {{-- ลบ col-sm-8 col-xl-12 col-xxl-5 ออกจาก class --}}
                                             <div class=" Photo text-center">
