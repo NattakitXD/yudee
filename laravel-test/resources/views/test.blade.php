@@ -434,41 +434,43 @@
                     </section>
 
                     <section>
-                        <h4 class="fs-30 text-heading lh-15 pt-3">Rating &amp; Reviews</h4>
+                        <h4 class="fs-30 text-heading lh-15 pt-3">Rating & Reviews</h4>
                         <div class="card border-0 mb-4">
                             <div class="card-body p-0">
                                 <div class="row">
 
-                                    <div class="col-sm-6 mb-6 mb-sm-0">
-                                        <div class="bg-gray-01 rounded-lg pt-2 px-6 pb-6">
+                                    <div class="col-sm-6 mb-6 mb-sm-0  ">
+                                        <div class="bg-gray-01 rounded-lg pt-2 px-6 pb-4">
                                             <h5 class="fs-16 lh-2 text-heading mb-6">
                                                 Avarage User Rating
                                             </h5>
                                             <p class="fs-40 text-heading font-weight-bold lh-1">4.6 <span
-                                                    class="fs-18 text-gray-light font-weight-normal">/5</span></p>
-                                            <ul class="list-inline">
+                                                    class="fs-18 text-gray-light font-weight-normal">/5</span>
+                                            </p>
+                                            <div class="list-inline ">
                                                 <li
-                                                    class="list-inline-item bg-warning text-white text-white w-46px h-46 d-inline-flex align-items-center justify-content-center rounded-lg  fs-18 mb-1">
+                                                    class="list-inline-item bg-warning text-white star d-inline-flex align-items-center justify-content-center mb-1">
                                                     <i class="fas fa-star"></i>
                                                 </li>
                                                 <li
-                                                    class="list-inline-item bg-warning text-white w-46px h-46 rounded-lg d-inline-flex align-items-center justify-content-center fs-18 mb-1">
+                                                    class="list-inline-item bg-warning text-white star d-inline-flex align-items-center justify-content-center mb-1">
                                                     <i class="fas fa-star"></i>
                                                 </li>
                                                 <li
-                                                    class="list-inline-item bg-warning text-white w-46px h-46 rounded-lg d-inline-flex align-items-center justify-content-center fs-18 mb-1">
+                                                    class="list-inline-item bg-warning text-white star d-inline-flex align-items-center justify-content-center mb-1">
                                                     <i class="fas fa-star"></i>
                                                 </li>
                                                 <li
-                                                    class="list-inline-item bg-warning text-white w-46px h-46 rounded-lg d-inline-flex align-items-center justify-content-center fs-18 mb-1">
+                                                    class="list-inline-item bg-warning text-white star d-inline-flex align-items-center justify-content-center mb-1">
                                                     <i class="fas fa-star"></i>
                                                 </li>
                                                 <li
-                                                    class="list-inline-item bg-gray-04 text-white w-46px h-46 rounded-lg d-inline-flex align-items-center justify-content-center fs-18 mb-1">
+                                                    class="list-inline-item bg-gray-04 text-white star d-inline-flex align-items-center justify-content-center mb-1">
                                                     <i class="fas fa-star"></i>
                                                 </li>
-                                            </ul>
+                                            </div>
                                         </div>
+
                                     </div>
 
                                     <div class="col-sm-6 pt-3">
@@ -1274,8 +1276,9 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
+                                                            <div class="list-inline">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                             2200 Sq.Ft
+                                                             2200 Sq.Ft</div>
                                                         </li>
                                                     </div>
                                                     <div class="col-6 mb-4">
@@ -1369,8 +1372,9 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
+                                                            <div class="list-inline">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                             2200 Sq.Ft
+                                                             2200 Sq.Ft</div>
                                                         </li>
                                                     </div>
                                                     <div class="col-6 mb-4">
@@ -1464,8 +1468,9 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
+                                                            <div class="list-inline">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                             2000 Sq.Ft
+                                                             2000 Sq.Ft</div>
                                                         </li>
                                                     </div>
                                                     <div class="col-6 mb-4">
@@ -1558,8 +1563,9 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
+                                                            <div class="list-inline">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                             2000 Sq.Ft
+                                                             2000 Sq.Ft</div>
                                                         </li>
                                                     </div>
                                                     <div class="col-6 mb-4">
@@ -1652,8 +1658,9 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
+                                                            <div class="list-inline">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                             2000 Sq.Ft
+                                                             2000 Sq.Ft</div>
                                                         </li>
                                                     </div>
                                                     <div class="col-6 mb-4">
@@ -1746,8 +1753,9 @@
                                                             <svg class="icon icon-square fs-18 text-primary mr-1">
                                                                 <use xlink:href="#icon-square"></use>
                                                             </svg>
+                                                            <div class="list-inline">
                                                             <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                             2000 Sq.Ft
+                                                             2000 Sq.Ft</div>
                                                         </li>
                                                     </div>
                                                     <div class="col-6 mb-4">
@@ -1830,7 +1838,6 @@
         </section>
     </main>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
         integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />

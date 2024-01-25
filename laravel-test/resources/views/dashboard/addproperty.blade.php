@@ -1690,7 +1690,7 @@
                                     <h4 class="title fz17 mb30">Select Amenities</h4>
                                     <div class="row">
                                         <div class="row">
-                                            <div class="col-sm-6 col-lg-3 col-xxl-2">
+                                            <div class="col-sm-6 col-lg-4">
                                                 <div class="checkbox-style1"><label
                                                         class="custom_checkbox">Attic<input
                                                             type="checkbox"><span
@@ -1714,7 +1714,7 @@
                                                             type="checkbox"><span
                                                             class="checkmark"></span></label></div>
                                             </div>
-                                            <div class="col-sm-6 col-lg-3 col-xxl-2">
+                                            <div class="col-sm-6 col-lg-4">
                                                 <div class="checkbox-style1"><label
                                                         class="custom_checkbox">TV
                                                         Cable<input type="checkbox"><span
@@ -1738,7 +1738,7 @@
                                                             type="checkbox"><span
                                                             class="checkmark"></span></label></div>
                                             </div>
-                                            <div class="col-sm-6 col-lg-3 col-xxl-2">
+                                            <div class="col-sm-6 col-lg-4">
                                                 <div class="checkbox-style1"><label
                                                         class="custom_checkbox">Lake
                                                         view<input type="checkbox"><span

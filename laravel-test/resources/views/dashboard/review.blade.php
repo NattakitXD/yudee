@@ -16,7 +16,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div
-                                        class="total_review d-flex align-items-center justify-content-between mb20 mt60">
+                                        class="total_review d-sm-flex align-items-center justify-content-between mb20 mt60">
                                         <h6 class="fz17 mb15"><i class="fas fa-star fz12 pe-2"></i>5.0 · 3 reviews</h6>
                                         <div
                                             class="page_control_shorting d-flex align-items-center justify-content-center justify-content-sm-end">
