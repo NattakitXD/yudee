@@ -3,7 +3,7 @@
 
     <div class="row pb40 d-block d-lg-none m-5">
         <div class="col-lg-12">
-            <div class="dashboard_navigationbar d-block d-lg-none">
+            <div class="dashboard-navigation d-block d-lg-none">
                 <div>
                     <div id="v-tabs1-tab" role="tablist" >
                         <button class="dropbtn ">

@@ -460,56 +460,6 @@
                                                 <div class="mb30">
                                                     <label class="heading-color ff-heading fw600 mb10">Video from</label>
                                                     <div class="location-area">
-
-                                                        {{-- <div class="select-custom pl-0 css-b62m3t-container">
-                                                            <span id="react-select-7-live-region"
-                                                                class="css-7pg0cj-a11yText">
-                                                            </span>
-                                                            <span aria-live="polite" aria-atomic="false"
-                                                                aria-relevant="additions text"
-                                                                class="css-7pg0cj-a11yText">
-                                                            </span>
-                                                            <div id="result-container">
-                                                                <div class="select__control css-13cymwt-control">
-                                                                    <div class="select__value-container select__value-container--is-multi select__value-container--has-value css-1dyz3mf">
-                                                                        <div  class="select__multi-value css-1p3m7a8-multiValue">
-                                                                            <div class="select__multi-value__label css-9jq23d">Facebook</div>
-                                                                            <div role="button" class="select__multi-value__remove css-v7duua" aria-label="Remove Facebook">
-                                                                                <svg height="14"  width="14" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="css-8mmkcg">
-                                                                                    <path
-                                                                                        d="M14.348 14.849c-0.469 0.469-1.229 0.469-1.697 0l-2.651-3.030-2.651 3.029c-0.469 0.469-1.229 0.469-1.697 0-0.469-0.469-0.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-0.469-0.469-0.469-1.228 0-1.697s1.228-0.469 1.697 0l2.652 3.031 2.651-3.031c0.469-0.469 1.228-0.469 1.697 0s0.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c0.469 0.469 0.469 1.229 0 1.698z">
-                                                                                    </path>
-                                                                                </svg>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="select__input-container css-19bb58m" data-value="">
-                                                                            <input class="select__input" autocapitalize="none" autocomplete="off"  autocorrect="off"  id="react-select-7-input"
-                                                                                spellcheck="false" tabindex="0" type="text" aria-autocomplete="list" aria-expanded="false"  aria-haspopup="true"
-                                                                                aria-required="true"  role="combobox" value=""
-                                                                                style="color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;">
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="select__indicators css-1wy0on6">
-                                                                        <div class="select__indicator select__clear-indicator css-1xc3v61-indicatorContainer" aria-hidden="true">
-                                                                            <svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="css-8mmkcg">
-                                                                                <path
-                                                                                    d="M14.348 14.849c-0.469 0.469-1.229 0.469-1.697 0l-2.651-3.030-2.651 3.029c-0.469 0.469-1.229 0.469-1.697 0-0.469-0.469-0.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-0.469-0.469-0.469-1.228 0-1.697s1.228-0.469 1.697 0l2.652 3.031 2.651-3.031c0.469-0.469 1.228-0.469 1.697 0s0.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c0.469 0.469 0.469 1.229 0 1.698z">
-                                                                                </path>
-                                                                            </svg>
-                                                                        </div>
-                                                                        <span class="select__indicator-separator css-1u9des2-indicatorSeparator"></span>
-                                                                        <div class="select__indicator select__dropdown-indicator css-1xc3v61-indicatorContainer" aria-hidden="true">
-                                                                            <svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true"  focusable="false"  class="css-8mmkcg">
-                                                                                <path
-                                                                                    d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
-                                                                                </path>
-                                                                            </svg>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div><input name="colors" type="hidden"  value="Facebook"></div>
-                                                        </div> --}}
                                                         <select  id="select4" name="select4" class="form-select  " style="width: 100%; height: 55px;" multiple >
                                                             <optgroup label="Alaskan/Hawaiian Time Zone">
                                                                 <option value="AK">Alaska</option>
@@ -613,61 +563,6 @@
                                                     <label class="heading-color ff-heading fw600 mb10">Country / State</label>
                                                     <div class="location-area">
 
-                                                        {{-- <div
-                                                            class="select-custom pl-0 css-b62m3t-container">
-                                                            <span id="react-select-8-live-region"
-                                                                class="css-7pg0cj-a11yText"></span><span
-                                                                aria-live="polite" aria-atomic="false"
-                                                                aria-relevant="additions text"
-                                                                class="css-7pg0cj-a11yText"></span>
-                                                            <div
-                                                                class="select__control css-13cymwt-control">
-                                                                <div
-                                                                    class="select__value-container select__value-container--is-multi css-hlgwow">
-                                                                    <div class="select__placeholder css-1jqq78o-placeholder"
-                                                                        id="react-select-8-placeholder">
-                                                                        Select...
-                                                                    </div>
-                                                                    <div class="select__input-container css-19bb58m"
-                                                                        data-value=""><input
-                                                                            class="select__input"
-                                                                            autocapitalize="none"
-                                                                            autocomplete="off"
-                                                                            autocorrect="off"
-                                                                            id="react-select-8-input"
-                                                                            spellcheck="false"
-                                                                            tabindex="0" type="text"
-                                                                            aria-autocomplete="list"
-                                                                            aria-expanded="false"
-                                                                            aria-haspopup="true"
-                                                                            aria-required="true"
-                                                                            role="combobox"
-                                                                            aria-describedby="react-select-8-placeholder"
-                                                                            value=""
-                                                                            style="color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;">
-                                                                    </div>
-                                                                </div>
-                                                                <div
-                                                                    class="select__indicators css-1wy0on6">
-                                                                    <span
-                                                                        class="select__indicator-separator css-1u9des2-indicatorSeparator"></span>
-                                                                    <div class="select__indicator select__dropdown-indicator css-1xc3v61-indicatorContainer"
-                                                                        aria-hidden="true"><svg
-                                                                            height="20" width="20"
-                                                                            viewBox="0 0 20 20"
-                                                                            aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="css-8mmkcg">
-                                                                            <path
-                                                                                d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
-                                                                            </path>
-                                                                        </svg></div>
-                                                                </div>
-                                                            </div><input required="" tabindex="-1"
-                                                                aria-hidden="true"
-                                                                class="css-1a0ro4n-requiredInput"
-                                                                value="">
-                                                        </div> --}}
                                                         <select  id="select5" name="select5" class="form-select  " style="width: 100%; height: 55px;" multiple >
                                                             <optgroup label="Alaskan/Hawaiian Time Zone">
                                                                 <option value="AK">Alaska</option>
@@ -739,61 +634,6 @@
                                                         class="heading-color ff-heading fw600 mb10">City</label>
                                                     <div class="location-area">
 
-                                                        {{-- <div
-                                                            class="select-custom pl-0 css-b62m3t-container">
-                                                            <span id="react-select-9-live-region"
-                                                                class="css-7pg0cj-a11yText"></span><span
-                                                                aria-live="polite" aria-atomic="false"
-                                                                aria-relevant="additions text"
-                                                                class="css-7pg0cj-a11yText"></span>
-                                                            <div
-                                                                class="select__control css-13cymwt-control">
-                                                                <div
-                                                                    class="select__value-container select__value-container--is-multi css-hlgwow">
-                                                                    <div class="select__placeholder css-1jqq78o-placeholder"
-                                                                        id="react-select-9-placeholder">
-                                                                        Select...
-                                                                    </div>
-                                                                    <div class="select__input-container css-19bb58m"
-                                                                        data-value=""><input
-                                                                            class="select__input"
-                                                                            autocapitalize="none"
-                                                                            autocomplete="off"
-                                                                            autocorrect="off"
-                                                                            id="react-select-9-input"
-                                                                            spellcheck="false"
-                                                                            tabindex="0" type="text"
-                                                                            aria-autocomplete="list"
-                                                                            aria-expanded="false"
-                                                                            aria-haspopup="true"
-                                                                            aria-required="true"
-                                                                            role="combobox"
-                                                                            aria-describedby="react-select-9-placeholder"
-                                                                            value=""
-                                                                            style="color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;">
-                                                                    </div>
-                                                                </div>
-                                                                <div
-                                                                    class="select__indicators css-1wy0on6">
-                                                                    <span
-                                                                        class="select__indicator-separator css-1u9des2-indicatorSeparator"></span>
-                                                                    <div class="select__indicator select__dropdown-indicator css-1xc3v61-indicatorContainer"
-                                                                        aria-hidden="true"><svg
-                                                                            height="20" width="20"
-                                                                            viewBox="0 0 20 20"
-                                                                            aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="css-8mmkcg">
-                                                                            <path
-                                                                                d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
-                                                                            </path>
-                                                                        </svg></div>
-                                                                </div>
-                                                            </div><input required="" tabindex="-1"
-                                                                aria-hidden="true"
-                                                                class="css-1a0ro4n-requiredInput"
-                                                                value="">
-                                                        </div> --}}
                                                         <select  id="select6" name="select6" class="form-select  " style="width: 100%; height: 55px;" multiple >
                                                             <optgroup label="Alaskan/Hawaiian Time Zone">
                                                                 <option value="AK">Alaska</option>
@@ -865,61 +705,6 @@
                                                         class="heading-color ff-heading fw600 mb10">Country</label>
                                                     <div class="location-area ">
 
-                                                        {{-- <div
-                                                            class="select-custom pl-0 css-b62m3t-container">
-                                                            <span id="react-select-10-live-region"
-                                                                class="css-7pg0cj-a11yText"></span><span
-                                                                aria-live="polite" aria-atomic="false"
-                                                                aria-relevant="additions text"
-                                                                class="css-7pg0cj-a11yText"></span>
-                                                            <div
-                                                                class="select__control css-13cymwt-control">
-                                                                <div
-                                                                    class="select__value-container select__value-container--is-multi css-hlgwow">
-                                                                    <div class="select__placeholder css-1jqq78o-placeholder"
-                                                                        id="react-select-10-placeholder">
-                                                                        Select...
-                                                                    </div>
-                                                                    <div class="select__input-container css-19bb58m"
-                                                                        data-value=""><input
-                                                                            class="select__input"
-                                                                            autocapitalize="none"
-                                                                            autocomplete="off"
-                                                                            autocorrect="off"
-                                                                            id="react-select-10-input"
-                                                                            spellcheck="false"
-                                                                            tabindex="0" type="text"
-                                                                            aria-autocomplete="list"
-                                                                            aria-expanded="false"
-                                                                            aria-haspopup="true"
-                                                                            aria-required="true"
-                                                                            role="combobox"
-                                                                            aria-describedby="react-select-10-placeholder"
-                                                                            value=""
-                                                                            style="color: inherit; background: 0px center; opacity: 1; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;">
-                                                                    </div>
-                                                                </div>
-                                                                <div
-                                                                    class="select__indicators css-1wy0on6">
-                                                                    <span
-                                                                        class="select__indicator-separator css-1u9des2-indicatorSeparator"></span>
-                                                                    <div class="select__indicator select__dropdown-indicator css-1xc3v61-indicatorContainer"
-                                                                        aria-hidden="true"><svg
-                                                                            height="20" width="20"
-                                                                            viewBox="0 0 20 20"
-                                                                            aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="css-8mmkcg">
-                                                                            <path
-                                                                                d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
-                                                                            </path>
-                                                                        </svg></div>
-                                                                </div>
-                                                            </div><input required="" tabindex="-1"
-                                                                aria-hidden="true"
-                                                                class="css-1a0ro4n-requiredInput"
-                                                                value="">
-                                                        </div> --}}
                                                         <select  id="select7" name="select7" class="form-select  " style="width: 100%; height: 55px;" multiple >
                                                             <optgroup label="Alaskan/Hawaiian Time Zone">
                                                                 <option value="AK">Alaska</option>
@@ -1001,7 +786,7 @@
                                                 <div class="mb20 mt30">
                                                     <label class="heading-color ff-heading fw600 mb30">Place the listing pin on the map</label>
                                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61986.891901766154!2d100.4506952486328!3d13.828182899999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29bfbc0283e39%3A0x203d873e226cd556!2zTHV2IERyaXZlIENhciBSZW50IGwg4LmA4Lil4Li04LifIOC5hOC4lOC4o-C5jOC4nyDguITguLLguKPguYzguYDguKPguYnguJnguJfguYwg4Liq4Liz4LiZ4Lix4LiB4LiH4Liy4LiZ4LmD4Lir4LiN4LmI!5e0!3m2!1sth!2sth!4v1705384925758!5m2!1sth!2sth"
-                                                        width="600" height="450" style="border:0;" allowfullscreen=""
+                                                        width="100%" height="450" style="border:0;" allowfullscreen=""
                                                         loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                                                     </iframe>
                                                 </div>
