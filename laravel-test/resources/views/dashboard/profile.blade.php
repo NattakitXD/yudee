@@ -23,7 +23,7 @@
                                                 <img src="https://homez-reactjs.ibthemespro.com/images/listings/profile-1.jpg" alt="My Profile" class="mx-auto d-block img-fluid">
                                                 <div class="custom-file mt-4 h-auto">
                                                     <input type="file" class="custom-file-input" hidden="" id="customFile" name="file">
-                                                    <button type="submit" class="ud-btn btn-white" style="color:#fff" >Upload profile image</button>
+                                                    <button type="submit" class="ud-btn btn-white btn-t-white" >Upload profile image</button>
                                                 </div>
                                                 <p class="mb-0 mt-2">
                                                     *minimum 500px x 500px
@@ -175,12 +175,12 @@
                         <div class="d-flex justify-content-end flex-wrap">
 
                             <div class="position-relative  pt30 pb20 mr-2" ><a href="#"
-                                class="ud-btn btn-white " style="color:#fff">Delete Profile
+                                class="ud-btn btn-white  btn-t-white">Delete Profile
                                 <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
 
                             <div class="position-relative  pt30 pb20 mr-2"><a href="#"
-                                class="ud-btn btn-white" style="color:#fff">Update Profile
+                                class="ud-btn btn-white btn-t-white">Update Profile
                                 <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
 

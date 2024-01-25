@@ -194,10 +194,10 @@
                                             <i class="fa-solid fa-house-chimney-window text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 Type
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 Single Family
                                             </p>
                                         </div>
@@ -210,10 +210,10 @@
                                             <i class="fa-solid fa-trowel-bricks text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 YEAR BUILT
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 2020
                                             </p>
                                         </div>
@@ -226,10 +226,10 @@
                                             <i class="fa-solid fa-temperature-arrow-up text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 HEATING
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 Radiant
                                             </p>
                                         </div>
@@ -242,10 +242,10 @@
                                             <i class="fa-solid fa-bath text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 BATHROOMS
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 2
                                             </p>
                                         </div>
@@ -258,10 +258,10 @@
                                             <i class="fa-solid fa-bed text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 BEDROOMS
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 3
                                             </p>
                                         </div>
@@ -274,10 +274,10 @@
                                             <i class="fa-solid fa-house-flag text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 SQFT
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 979.0
                                             </p>
                                         </div>
@@ -290,10 +290,10 @@
                                             <i class="fa-solid fa-warehouse text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 GARAGE
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 1
                                             </p>
                                         </div>
@@ -306,10 +306,10 @@
                                             <i class="fa-solid fa-scroll text-primary"></i>
                                         </div>
                                         <div class="media-body">
-                                            <h5 class="  fs-14 text-uppercase letter-spacing-093 font-weight-normal ">
+                                            <h5 class="  fs-13 text-uppercase letter-spacing-093 font-weight-normal ">
                                                 STATUS
                                             </h5>
-                                            <p class=" fs-13 font-weight-bold text-heading">
+                                            <p class=" fs-12 font-weight-bold text-heading">
                                                 Active
                                             </p>
                                         </div>
@@ -427,7 +427,7 @@
                         <div class="d-flex justify-content-center ">
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61986.891901766154!2d100.4506952486328!3d13.828182899999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29bfbc0283e39%3A0x203d873e226cd556!2zTHV2IERyaXZlIENhciBSZW50IGwg4LmA4Lil4Li04LifIOC5hOC4lOC4o-C5jOC4nyDguITguLLguKPguYzguYDguKPguYnguJnguJfguYwg4Liq4Liz4LiZ4Lix4LiB4LiH4Liy4LiZ4LmD4Lir4LiN4LmI!5e0!3m2!1sth!2sth!4v1704791449392!5m2!1sth!2sth"
-                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
 
@@ -900,21 +900,21 @@
                                         <div class="col-sm-6">
                                             <div class="form-group mb-4">
                                                 <input placeholder="Your Name"
-                                                    class="form-control form-control-lg border-0" type="text"
+                                                    class="form-control-ga form-control-ga-lg border-0" type="text"
                                                     name="name">
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group mb-4">
                                                 <input type="email" placeholder="Email" name="email"
-                                                    class="form-control form-control-lg border-0">
+                                                    class="form-control-ga form-control-ga-lg border-0">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="form-group ">
-                                        <textarea class="form-control form-control-lg border-0" placeholder="Your Review" name="message" rows="5"></textarea>
+                                        <textarea class="form-control-ga form-control-ga-lg border-0" placeholder="Your Review" name="message" rows="5"></textarea>
                                     </div>
-                                    <button type="submit" class="ud-btn btn-white px-10 mb-2" style="color:#fff">Submit</button>
+                                    <button type="submit" class="ud-btn btn-white px-10 mb-2 btn-t-white"  >Submit</button>
 
                                 </form>
                             </div>
@@ -1034,21 +1034,21 @@
                                             </div>
 
                                             <div class="form-group mb-2">
-                                                <input type="text" class="form-control form-control-lg border-0"
+                                                <input type="text" class="form-control-ga form-control-ga-lg border-0"
                                                     placeholder="First Name, Last Name">
                                             </div>
                                             <div class="form-group mb-2">
-                                                <input type="email" class="form-control form-control-lg border-0"
+                                                <input type="email" class="form-control-ga form-control-ga-lg border-0"
                                                     placeholder="Your Email">
                                             </div>
                                             <div class="form-group mb-2">
-                                                <input type="tel" class="form-control form-control-lg border-0"
+                                                <input type="tel" class="form-control-ga form-control-ga-lg border-0"
                                                     placeholder="Your phone">
                                             </div>
                                             <div class="form-group mb-4">
-                                                <textarea class="form-control border-0" rows="4">Hello, I'm interested in Villa Called Archangel</textarea>
+                                                <textarea class="form-control-ga border-0" rows="4">Hello, I'm interested in Villa Called Archangel</textarea>
                                             </div>
-                                            <button type="submit" class="ud-btn btn-white btn-lg btn-block rounded"style="color:#fff">Request Info</button>
+                                            <button type="submit" class="ud-btn btn-white btn-lg btn-block rounded btn-t-white">Request Info</button>
                                             <div class="form-group form-check mt-2 mb-0">
                                                 <input type="checkbox" class="form-check-input" id="exampleCheck2">
                                                 <label class="form-check-label fs-13" for="exampleCheck2">Egestas
@@ -1180,19 +1180,19 @@
                                             <div class="form-group mb-2">
                                             </div>
                                             <div class="form-group mb-2">
-                                                <input type="text" class="form-control form-control-lg border-0"
+                                                <input type="text" class="form-control-ga form-control-ga-lg border-0"
                                                     placeholder="First Name, Last Name">
                                             </div>
                                             <div class="form-group mb-2">
-                                                <input type="email" class="form-control form-control-lg border-0"
+                                                <input type="email" class="form-control-ga form-control-ga-lg border-0"
                                                     placeholder="Your Email">
                                             </div>
                                             <div class="form-group mb-4">
-                                                <input type="tel" class="form-control form-control-lg border-0"
+                                                <input type="tel" class="form-control-ga form-control-ga-lg border-0"
                                                     placeholder="Your phone">
                                             </div>
                                             <button type="submit"
-                                            class="ud-btn btn-white btn-lg btn-block rounded"style="color:#fff">Schedule A Tour
+                                            class="ud-btn btn-white btn-lg btn-block rounded btn-t-white">Schedule A Tour
                                             </button>
                                             <div class="form-group form-check mt-2 mb-0">
                                                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -1222,15 +1222,17 @@
                     <div class="slick-track" style="opacity: 1; width: 100%; transform: translate3d(0px, 0px, 0px);">
                         <div class="col-md-12 ">
                             <div class="slick-slider ">
-                                <div class="  slick-slide-box slick-current slick-active d-flex justify-content-between "
+
+                                <div class=" slick-slide-box slick-active d-flex justify-content-between"
                                     style="width: 400px;" tabindex="0" data-slick-index="0" aria-hidden="false">
-                                    <div class="card shadow-hover-2 mr-2 ">
+                                    <div class="card shadow-hover-2 mr-2">
                                         <div class="hover-change-image bg-hover-overlay rounded-lg card-img-top">
                                             <img src="https://templates.g5plus.net/homeid/images/properties-grid-38.jpg"
-                                                alt="Home in Metric Way">
+                                                alt="Garden Gingerbread House">
                                             <div class="card-img-overlay p-2 d-flex flex-column">
                                                 <div>
-                                                    <span class="badge mr-2 badge-primary">for Sale</span>
+                                                    <span class="badge mr-2 badge-orange">featured</span>
+                                                    <span class="badge mr-2 badge-indigo">for Sale</span>
                                                 </div>
                                                 <ul class="list-inline mb-0 mt-auto hover-image">
                                                     <li class="list-inline-item mr-2" data-toggle="tooltip"
@@ -1253,46 +1255,46 @@
                                         </div>
                                         <div class="card-body pt-3">
                                             <h2 class="card-title fs-16 lh-2 mb-0"><a href="single-property-1.html"
-                                                    class="text-dark hover-primary" tabindex="0">Home in Metric Way</a>
-                                            </h2>
-                                            <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St, Los Angeles</p>
-                                            <div class="row">
-                                                <div class="col-6 mb-4">
-                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
-                                                        data-toggle="tooltip" title="" data-original-title="3 Bedroom">
-                                                        <svg class="icon icon-bedroom fs-18 text-primary mr-1">
-                                                            <use xlink:href="#icon-bedroom"></use>
-                                                        </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
-                                                    </li>
+                                                    class="text-dark hover-primary" tabindex="0">Garden Gingerbread
+                                                    House</a></h2>
+                                            <p class="card-text font-weight-500 text-gray-light mb-2">1421 San Pedro St,
+                                                Los Angeles</p>
+                                                <div class="row">
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="3 Bedroom">
+                                                            <svg class="icon icon-bedroom fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-bedroom"></use>
+                                                            </svg><i class="fa-solid fa-bed text-primary mr-2"></i>3 Br
+                                                        </li>
 
 
-                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
-                                                        data-toggle="tooltip" title="" data-original-title="Size">
-                                                        <svg class="icon icon-square fs-18 text-primary mr-1">
-                                                            <use xlink:href="#icon-square"></use>
-                                                        </svg>
-                                                        <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
-                                                         2000 Sq.Ft
-                                                    </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-12 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="Size">
+                                                            <svg class="icon icon-square fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-square"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-up-right-and-down-left-from-center text-primary mr-2"></i>
+                                                             2200 Sq.Ft
+                                                        </li>
+                                                    </div>
+                                                    <div class="col-6 mb-4">
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
+                                                            <svg class="icon icon-shower fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-shower"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
+                                                        </li>
+                                                        <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
+                                                            data-toggle="tooltip" title="" data-original-title="1 Garage">
+                                                            <svg class="icon icon-Garage fs-18 text-primary mr-1">
+                                                                <use xlink:href="#icon-Garage"></use>
+                                                            </svg>
+                                                            <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
+                                                        </li>
+                                                    </div>
                                                 </div>
-                                                <div class="col-6 mb-4">
-                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
-                                                        data-toggle="tooltip" title=""  data-original-title="3 Bathrooms">
-                                                        <svg class="icon icon-shower fs-18 text-primary mr-1">
-                                                            <use xlink:href="#icon-shower"></use>
-                                                        </svg>
-                                                        <i class="fa-solid fa-shower text-primary mr-2"></i> 3 Ba
-                                                    </li>
-                                                    <li class="list-inline-item text-gray font-weight-500 fs-13 d-flex align-items-center "
-                                                        data-toggle="tooltip" title="" data-original-title="1 Garage">
-                                                        <svg class="icon icon-Garage fs-18 text-primary mr-1">
-                                                            <use xlink:href="#icon-Garage"></use>
-                                                        </svg>
-                                                        <i class="fa-solid fa-warehouse text-primary mr-2"></i> 1 Gr
-                                                    </li>
-                                                </div>
-                                            </div>
-
                                         </div>
                                         <div
                                             class="card-footer bg-transparent d-flex justify-content-between align-items-center py-3">
@@ -1794,10 +1796,6 @@
             </div>
         </section>
 
-
-
-
-
         <section>
             <div class="d-flex bottom-bar-action bottom-bar-action-01 py-2 px-4 bg-gray-01 align-items-center position-fixed fixed-bottom d-sm-none"
                 style="">
@@ -1829,55 +1827,18 @@
                     </ul>
                 </div>
             </div>
-            {{-- modal contect --}}
-            {{-- <div class="modal fade" id="modal-messenger" tabindex="-1" aria-labelledby="exampleModalLabel"
-                aria-hidden="true" style="display: none;">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header border-0 pb-0">
-                            <h4 class="modal-title text-heading" id="exampleModalLabel">Contact Form</h4>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
-                            </button>
-                        </div>
-                        <div class="modal-body pb-6">
-                            <div class="form-group mb-2">
-                                <input type="text" class="form-control form-control-lg border-0"
-                                    placeholder="First Name, Last Name">
-                            </div>
-                            <div class="form-group mb-2">
-                                <input type="email" class="form-control form-control-lg border-0"
-                                    placeholder="Your Email">
-                            </div>
-                            <div class="form-group mb-2">
-                                <input type="tel" class="form-control form-control-lg border-0"
-                                    placeholder="Your phone">
-                            </div>
-                            <div class="form-group mb-2">
-                                <textarea class="form-control border-0" rows="4">Hello, I'm interested in Villa Called Archangel</textarea>
-                            </div>
-                            <div class="form-group form-check mb-4">
-                                <input type="checkbox" class="form-check-input" id="exampleCheck3">
-                                <label class="form-check-label fs-13" for="exampleCheck3">Egestas fringilla
-                                    phasellus
-                                    faucibus
-                                    scelerisque eleifend donec.</label>
-                            </div>
-                            <button type="submit" class="btn btn-white2 rounded"style="color:#fff">Request Info</button>
-                        </div>
-                    </div>
-                </div>
-            </div> --}}
         </section>
     </main>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
+        integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"
         integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
-        integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
     <script>
         $('.slick-slider').slick({
@@ -1913,11 +1874,4 @@
         });
     </script>
 
-
-    {{-- tabpanel --}}
-    <script src="/assets/js/galleryjs/jquery.min.js"></script>
-    <script src="/assets/js/galleryjs/bootstrap-js/bootstrap.bundle.js"></script>
-    <script src="js/theme.js"></script>
-    {{-- Image popup --}}
-    <script src="/assets/js/galleryjs/magnific-popup-js/jquery.magnific-popup.min.js"></script>
 @endsection
