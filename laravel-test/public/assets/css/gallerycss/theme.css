@@ -2854,3 +2854,14 @@
         text-align: right;
     }
 }
+
+.list-head{
+    margin-top: 65px;
+}
+
+
+@media (max-width: 1025px) {
+    .list-head{
+        margin-top: 100px!important;
+    }
+}

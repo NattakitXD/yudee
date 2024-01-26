@@ -89,7 +89,7 @@
                                                 Style</span><span
                                                 class="fa-solid fa-angle-down fa-rotate-270 dropagent2"></span></i></a>
                                         <ul class="sub-menu">
-                                            <li><a class="undefined" href="/single-v1/1">Single V1</a>
+                                            <li><a class="undefined" href="/gallery">Single V1</a>
                                             </li>
                                             <li><a class="undefined" href="/single-v2/1">Single V2</a>
                                             </li>
@@ -115,7 +115,7 @@
                                                 class="title">Dashboard</span><span
                                                 class="fa-solid fa-angle-down fa-rotate-270 dropagent3"></span></i></a>
                                         <ul class="sub-menu">
-                                            <li><a class="undefined" href="/dashboard-home">Dashboard
+                                            <li><a class="undefined" href="/sidebar">Dashboard
                                                     Home</a></li>
                                             <li><a class="undefined" href="/dashboard-message">Message</a>
                                             </li>
