@@ -149,7 +149,7 @@
         <div class="container">
             <div class="row">
                 <article class="col-lg-8 pr-xl-7">
-                    <section class=" border-bottom">
+                    <section class="mt-6 border-bottom">
                         <ul class="list-inline d-sm-flex align-items-sm-center">
                             <li class="list-inline-item badge badge-orange">Featured</li>
                             <li class="list-inline-item badge badge-primary">For Sale</li>
