@@ -6,7 +6,7 @@
                     <a class="footer-logo"href="/">
                         <img class="mb40" src="https://img5.pic.in.th/file/secure-sv1/YuuDee2-logo.png" alt="YuuDee2-logo.png"  />
                     </a>
-                    
+
                     <div class="row mb-4 mb-lg-5">
                         <div class="contact-info mb25">
                             <p class="text mb0">58 Howard Street #2 San Francisco</p>
@@ -22,7 +22,7 @@
                             {{-- <h6 class="info-phone"><a href="tel:+012305094502">+(0) 123 050 945 02</a>
                             </h6> --}}
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                         <h6 class="title mb30">Sign Up for Our Newsletter</h6>
                         <div class="mailchimp-style1 at-home4 white-version">
                             <input type="email" class="form-control" placeholder="Your Email"fdprocessedid="q0ns2o">
-                            <button type="submit"   fdprocessedid="yko0ob"><i class="fa-solid fa-rocket"></i></button>   
+                            <button type="submit"   fdprocessedid="yko0ob"><i class="fa-solid fa-rocket"></i></button>
                         </div>
                         <div class="social-style1 light-style py-2">
                             <a href="#"><i class="fab fa-facebook-f list-inline-item"></i></a>

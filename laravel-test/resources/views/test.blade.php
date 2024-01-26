@@ -2,7 +2,7 @@
 @section('content')
     <main>
         <section>
-            <div class="container">
+            <div class="container list-head">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pt-lg-0">
                         <li class="breadcrumb-item fs-12 letter-spacing-087">
@@ -145,11 +145,10 @@
 
         </section>
 
-
         <div class="container">
             <div class="row">
                 <article class="col-lg-8 pr-xl-7">
-                    <section class=" border-bottom">
+                    <section class="mt-6 border-bottom">
                         <ul class="list-inline d-sm-flex align-items-sm-center">
                             <li class="list-inline-item badge badge-orange">Featured</li>
                             <li class="list-inline-item badge badge-primary">For Sale</li>
@@ -161,9 +160,9 @@
                         </ul>
 
                         <div class="d-sm-flex justify-content-sm-between ">
-                            <div c>
+                            <div >
                                 <h2 class="fs-30 text-heading font-bold mb-0">Villa on Hollywood Boulevard</h2>
-                                <p class="mb-0"><i class="fa-solid fa-location-dot mr-2"></i>ที่อยู่บ้าน</p>
+                                <p class="mb-0 text-mute"><i class="fa-solid fa-location-dot mr-2"></i>ที่อยู่บ้าน</p>
                             </div>
 
                             <div class="mt-2 text-lg-right">
@@ -923,6 +922,7 @@
                     </section>
 
                 </article>
+
 
                 <aside class="col-lg-4 pl-xl-4 primary-sidebar sidebar-sticky ">
                     <div class="make-me-sticky ">

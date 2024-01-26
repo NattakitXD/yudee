@@ -26,7 +26,7 @@ var swiper = new Swiper(".swiper", {
   spaceBetween: 30,
   slidesPerGroup: 1,
   loop: false,
-  
+
   // centerSlide: "true",
   // grapCurser: "true",
   // fade: "true",
@@ -103,7 +103,7 @@ var swiper = new Swiper(".swipers", {
   slidesPerGroup: 1,
   loop: false,
   // loopFillGroupWithBlank: true,
-  
+
 
   pagination: {
     el: "",
@@ -165,7 +165,7 @@ var swiper = new Swiper(".swiperes", {
   slidesPerGroup: 1,
   loop: true,
   // loopFillGroupWithBlank: true,
-  
+
   autoplay: {
     delay: 3000, // Autoplay delay in milliseconds ทำให้มันสไลด์เอง
   },
