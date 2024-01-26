@@ -1377,8 +1377,9 @@
     border-top: 1px solid #eee!important
   }
 
-  .border-bottom {
-    border-bottom: 1px solid #eee!important
+  .border-bottom-ga {
+
+    border-bottom: 1px solid #dee2e6!important;
   }
 
   .border-left {
@@ -2299,7 +2300,7 @@
     font-size: 48px!important
   }
 
-  .border-0 {
+  /* .border-0 {
     border: none!important
   }
 
@@ -2321,7 +2322,7 @@
 
   .border-left {
     border-left: 1px solid #eee!important
-  }
+  } */
 
   .lh-1 {
     line-height: 1!important
@@ -2864,4 +2865,7 @@
     .list-head{
         margin-top: 100px!important;
     }
+}
+.del {
+    text-decoration: line-through;
 }

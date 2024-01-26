@@ -4,9 +4,9 @@
     }
 }
 
-body {
+/* body {
     margin: 0;
-    font-family: var(--bs-body-font-family);
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     font-size: var(--bs-body-font-size);
     font-weight: var(--bs-body-font-weight);
     line-height: var(--bs-body-line-height);
@@ -15,15 +15,15 @@ body {
     background-color: var(--bs-body-bg);
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
-}
+} */
 
-.h2,.h4,h2,h4 {
+/* .h2,.h4,h2,h4 {
     margin-top: 0;
     margin-bottom: .5rem;
     font-weight: 500;
     line-height: 1.2;
     color: var(--bs-heading-color)
-}
+} */
 
 .h2,h2 {
     font-size: calc(1.325rem + .9vw)
@@ -64,7 +64,7 @@ ul ul {
 }
 
 a {
-    color: rgba(var(--bs-link-color-rgb),var(--bs-link-opacity,1));
+    color: 13,110,253 ,1;
     text-decoration: underline
 }
 
@@ -78,7 +78,7 @@ a:not([href]):not([class]),a:not([href]):not([class]):hover {
 }
 
 code {
-    font-family: var(--bs-font-monospace);
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
     font-size: 1em
 }
 
@@ -511,7 +511,9 @@ textarea.form-control-ap {
 }
 
 .border {
-    border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color)!important
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dee2e6;
 }
 
 .justify-content-center {
@@ -561,7 +563,7 @@ textarea.form-control-ap {
 
 .text-primary {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-primary-rgb),var(--bs-text-opacity))!important
+    color: 13,110,253,1!important
 }
 
 :root {
@@ -578,7 +580,7 @@ textarea.form-control-ap {
 
 :root {
     --mm-sidebar-collapsed-size: 50px;
-    --mm-sidebar-expanded-size: var(--mm-max-size)
+    --mm-sidebar-expanded-size: 440px;
 }
 
 .p30 {
@@ -681,14 +683,14 @@ body {
     background-color: #fff;
     font-size: 14px;
     font-weight: 400;
-    color: var(--headings-color);
+    color: #000000;
     line-height: 26px;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased
 }
 
 a,.btn {
-    color: var(--headings-color);
+    color: #000000;
     text-decoration: none;
     outline: none;
     -webkit-transition: all ease .4s;
@@ -717,15 +719,15 @@ iframe {
 }
 
 .h2,h2,.h4,h4 {
-    font-family: var(--title-font-family);
-    color: var(--headings-color);
+    font-family: "Poppins", sans-serif;
+    color: #000000;
     font-weight: 600;
     line-height: 1.5
 }
 
 p {
     margin: 0 0 15px;
-    color: var(--headings-color);
+    color: #000000;
     line-height: 1.85;
     font-weight: 400
 }
@@ -769,7 +771,7 @@ li {
 }
 
 .header_right_widgets a {
-    color: var(--headings-color);
+    color: #000000;
     display: block;
     font-size: 20px;
     height: 44px;
@@ -809,8 +811,8 @@ li {
 
 .user_setting .dropdown-menu .dropdown-item {
     border-radius: 12px;
-    color: var(--headings-color);
-    font-family: var(--title-font-family);
+    color: #000000;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     overflow: hidden;
     font-size: 14px;
@@ -839,8 +841,8 @@ li {
     display: -ms-flexbox;
     display: flex;
     border-radius: 12px;
-    color: var(--headings-color);
-    font-family: var(--title-font-family);
+    color: #000000;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     padding: 14.5px 20px;
     margin-bottom: 5px;
@@ -1010,33 +1012,33 @@ section {
 
 .form-style1 .form-control-ap::-webkit-input-placeholder {
     color: #717171;
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .form-style1 .form-control-ap::-moz-placeholder {
     color: #717171;
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .form-style1 .form-control-ap:-ms-input-placeholder {
     color: #717171;
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .form-style1 .form-control-ap::-ms-input-placeholder {
     color: #717171;
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .form-style1 .form-control-ap::placeholder {
     color: #717171;
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .form-style1 .form-control-ap.active,.form-style1 .form-control-ap:focus {
     border: 1px solid transparent;
-    outline: 2px solid var(--headings-color);
-    color: var(--headings-color)
+    outline: 2px solid #000000;
+    color: #000000
 }
 
 .form-style1 .custom_checkbox {
@@ -1050,7 +1052,7 @@ section {
 textarea {
     border: 1px solid #dddddd;
     border-radius: 8px;
-    font-family: var(--title-font-family);
+    font-family: "Poppins", sans-serif;
     height: auto;
     width: 100%;
     padding: 25px 20px
@@ -1058,7 +1060,7 @@ textarea {
 
 textarea:focus {
     border: 1px solid transparent;
-    outline: 2px solid var(--headings-color);
+    outline: 2px solid #000000;
     -webkit-box-shadow: none;
     box-shadow: none
 }
@@ -1069,7 +1071,7 @@ textarea:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
     font-size: 14px;
-    font-family: var(--title-font-family);
+    font-family: "Poppins", sans-serif;
     height: 55px;
     outline: none;
     padding-left: 15px
@@ -1077,19 +1079,19 @@ textarea:focus {
 
 .form-control-ap:placeholder {
     color: #717171;
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .form-control-ap:focus {
     border: 1px solid transparent;
-    outline: 2px solid var(--headings-color);
+    outline: 2px solid #000000;
     -webkit-box-shadow: none;
     box-shadow: none
 }
 
 .dropdown-item.active {
     background-color: #eb675312;
-    color: var(--headings-color)
+    color: #000000
 }
 
 @-webkit-keyframes myanimation {
@@ -1251,7 +1253,7 @@ textarea:focus {
 .ud-btn {
     border-radius: 12px;
     display: inline-block;
-    font-family: var(--title-font-family);
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-size: 15px;
     font-style: normal;
@@ -1317,7 +1319,7 @@ textarea:focus {
 
 .btn-white {
     background-color: #0071bc;
-    border: 1px solid var(--headings-color)
+    border: 1px solid #000000
 }
 /* ปิดไว้ */
 /* .btn-white:hover,.btn-white2:hover {
@@ -1418,8 +1420,8 @@ header.nav-homepage-style .ace-responsive-menu .sub-menu li:hover {
 }
 
 header.nav-homepage-style .ace-responsive-menu .sub-menu a {
-    color: var(--headings-color);
-    font-family: var(--title-font-family);
+    color: #000000;
+    font-family: "Poppins", sans-serif;
     font-weight: 600;
     line-height: 16px
 }
@@ -1491,7 +1493,7 @@ header.nav-homepage-style .ace-responsive-menu .megamenu_style .mega_menu_list {
 
 /* header.nav-homepage-style .ace-responsive-menu a {
     color: #fff;
-    font-family: var(--title-font-family);
+    font-family: "Poppins", sans-serif;
     font-weight: 600
 } */
 
@@ -1510,7 +1512,7 @@ header.nav-homepage-style .ace-responsive-menu .megamenu_style .mega_menu_list {
     border-color: transparent;
     border: 2px solid transparent;
     color: #717171;
-    font-family: var(--title-font-family);
+    font-family: "Poppins", sans-serif;
     -webkit-transition: all .4s ease;
     -o-transition: all .4s ease;
     transition: all .4s ease
@@ -1518,7 +1520,7 @@ header.nav-homepage-style .ace-responsive-menu .megamenu_style .mega_menu_list {
 
 .navtab-style1 .nav-link-ap:focus,.navtab-style1 .nav-link-ap:hover,.navtab-style1 .nav-link-ap.active {
     border-color: transparent;
-    border-bottom: 2px solid var(--headings-color);
+    border-bottom: 2px solid #000000;
     color: #181a20
 }
 
@@ -1553,7 +1555,7 @@ input:focus-visible {
 }
 
 .ff-heading {
-    font-family: var(--title-font-family)
+    font-family: "Poppins", sans-serif;
 }
 
 .bgc-white {
@@ -1561,7 +1563,7 @@ input:focus-visible {
 }
 
 .heading-color {
-    color: var(--headings-color)
+    color: #000000
 }
 
 .bgc-f7 {
@@ -1597,8 +1599,8 @@ input:focus-visible {
 }
 
 .text {
-    color: var(--headings-color);
-    font-family: var(--title-font-family);
+    color: #000000;
+    font-family: "Poppins", sans-serif;
     font-weight: 400
 }
 
@@ -1714,11 +1716,11 @@ html {
 }
 
 .nav-homepage-style.light-header .login-info {
-    color: var(--headings-color)
+    color: #000000
 }
 
 header.nav-homepage-style.light-header .ace-responsive-menu a {
-    color: var(--headings-color)
+    color: #000000
 } */
 
 #map iframe {
@@ -1800,7 +1802,7 @@ header.nav-homepage-style.light-header .ace-responsive-menu a {
 /* ปิดไว้ */
 .btn-red2 {
     background-color: #cb1b1b;
-    border: 1px solid var(--headings-color)
+    border: 1px solid #000000
 }
 .btn-red2:before {
     background-color: #0ca5b1
@@ -1823,11 +1825,9 @@ header.nav-homepage-style.light-header .ace-responsive-menu a {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: var(--bs-body-color);
-    background-color: var(--bs-body-bg);
+    color: #000000;
+    background-color: #fff;
     background-clip: padding-box;
-    border: var(--bs-border-width) solid var(--bs-border-color);
-    border-radius: var(--bs-border-radius);
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 
