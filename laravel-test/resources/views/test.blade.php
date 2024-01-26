@@ -924,7 +924,6 @@
 
                 </article>
 
-
                 <aside class="col-lg-4 pl-xl-4 primary-sidebar sidebar-sticky ">
                     <div class="make-me-sticky ">
                         <div class="card border-0 widget-request-tour">
