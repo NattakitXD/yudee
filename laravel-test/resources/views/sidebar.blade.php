@@ -1,13 +1,16 @@
 @extends('layouts.master')
 @section('content')
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
 
     <div class="row pb40 d-block d-lg-none m-5">
         <div class="col-lg-12">
             <div class="dashboard-navigation d-block d-lg-none">
                 <div>
                     <div id="v-tabs1-tab" role="tablist" >
-                        <button class="dropbtn ">
-                            <i class="fa-solid fa-bars pr5"> </i>Dashboard Navigation</button>
+                        <button class="dropbtn dashboard-navigation-header">
+                            <i class="fa-solid fa-bars pr5"> </i>
+                            <a href="#" class="dashboard-navigation-header"> Dashboard Navigation</a>
+                        </button>
                         <ul class="dropdown-content show">
                             <div>
                                 <p class="fz15 fw400 ff-heading mt30 pl30 mt-0">MAIN</p>

@@ -422,7 +422,7 @@
 
                     </section>
 
-                    <section class="pt-6 border-bottom pb-5">
+                    <section class="pt-6 border-bottom">
                         <h2 class="fs-30 text-heading font-bold mb-3">Location</h2>
                         <div class="d-flex justify-content-center ">
                             <iframe
@@ -622,7 +622,6 @@
                         </div>
 
                     </section>
-
 
                     <section class="pt-6 border-bottom">
                         <div class="card border-0 mb-4">
@@ -1034,18 +1033,19 @@
                                                     </div>
                                                 </div>
                                             </div>
-
-                                            <div class="form-group mb-2">
-                                                <input type="text" class="form-control-ga form-control-ga-lg border-0"
-                                                    placeholder="First Name, Last Name">
-                                            </div>
-                                            <div class="form-group mb-2">
-                                                <input type="email" class="form-control-ga form-control-ga-lg border-0"
-                                                    placeholder="Your Email">
-                                            </div>
-                                            <div class="form-group mb-2">
-                                                <input type="tel" class="form-control-ga form-control-ga-lg border-0"
-                                                    placeholder="Your phone">
+                                            <div class="mt-4">
+                                                <div class="form-group mb-2">
+                                                    <input type="text" class="form-control-ga form-control-ga-lg border-0"
+                                                        placeholder="First Name, Last Name">
+                                                </div>
+                                                <div class="form-group mb-2">
+                                                    <input type="email" class="form-control-ga form-control-ga-lg border-0"
+                                                        placeholder="Your Email">
+                                                </div>
+                                                <div class="form-group mb-2">
+                                                    <input type="tel" class="form-control-ga form-control-ga-lg border-0"
+                                                        placeholder="Your phone">
+                                                </div>
                                             </div>
                                             <div class="form-group mb-4">
                                                 <textarea class="form-control-ga border-0" rows="4">Hello, I'm interested in Villa Called Archangel</textarea>

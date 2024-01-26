@@ -1,20 +1,23 @@
+// document.addEventListener("DOMContentLoaded", function() {
+//     const dropdownBtn = document.querySelector(".dropbtn");
+//     const dropdownContent = document.querySelector(".dropdown-content");
 
-$(document).ready(function() {
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 100) {
-            $('#topButton').fadeIn();
-        } else {
-            $('#topButton').fadeOut();
-        }
-    });
+//     dropdownBtn.addEventListener("click", function() {
+//         dropdownContent.classList.toggle("show");
+//     });
 
-    $("#topButton").on("click", function() {
-        $("html, body").animate({
-            scrollTop: 0
-        }, "slow");
-        return false;
-    });
-});
+//     document.addEventListener("click", function(event) {
+//         if (!event.target.matches(".dropbtn")) {
+//             const dropdowns = document.getElementsByClassName("dropdown-content");
+//             for (let i = 0; i < dropdowns.length; i++) {
+//                 const openDropdown = dropdowns[i];
+//                 if (openDropdown.classList.contains("show")) {
+//                     openDropdown.classList.remove("show");
+//                 }
+//             }
+//         }
+//     });
+// });
 
 
 
@@ -22,11 +25,11 @@ document.addEventListener("DOMContentLoaded", function() {
     const dropdownBtn = document.querySelector(".dropbtn");
     const dropdownContent = document.querySelector(".dropdown-content");
 
-    dropdownBtn.addEventListener("click", function() {
+    dropdownBtn.onclick = function() {
         dropdownContent.classList.toggle("show");
-    });
+    };
 
-    document.addEventListener("click", function(event) {
+    document.onclick = function(event) {
         if (!event.target.matches(".dropbtn")) {
             const dropdowns = document.getElementsByClassName("dropdown-content");
             for (let i = 0; i < dropdowns.length; i++) {
@@ -36,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             }
         }
-    });
+    };
 });
 
 
@@ -56,9 +59,9 @@ document.addEventListener("DOMContentLoaded", function() {
             // เพิ่มคลาส -is-active เข้าไปที่ element ที่ถูกคลิก
             item.classList.add("-is-active");
 
-            document.querySelector('.sidebar_list_item [aria-selected="true"]').setAttribute('aria-selected', 'false');
-            // กำหนด aria-selected="true" สำหรับ tab ที่ถูกคลิก
-            item.querySelector('[aria-selected]').setAttribute('aria-selected', 'true');
+            // document.querySelector('.sidebar_list_item [aria-selected="true"]').setAttribute('aria-selected', 'false');
+            // // กำหนด aria-selected="true" สำหรับ tab ที่ถูกคลิก
+            // item.querySelector('[aria-selected]').setAttribute('aria-selected', 'true');
         });
     });
 
